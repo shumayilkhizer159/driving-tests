@@ -1,0 +1,189 @@
+[
+  {
+    "id": "21534",
+    "qid": "17",
+    "qw": "1",
+    "q": "What is the reaction distance when you are driving at 90 km/h?<br /><br />A. 17 metres.<br />B. 22 metres.<br />C. 27 metres.",
+    "s": "c",
+    "e": "LESSON 13<br />Between the moment the driver sees the danger and the moment the brain processes this information and realises that the brake pedal must be pressed, the vehicle has already travelled a certain distance.<br />The higher the speed, the longer the distance covered during the reaction time.<br />&bull; At 50 km/h, the reaction distance is about 15 metres.<br />&bull; At 90 km/h, the reaction distance is about 27 metres.<br />&bull; At 120 km/h, the reaction distance is about 36 metres.<br />- This happens before the brake pedal is pressed.<br />- A drunk driver reacts more slowly, which makes the reaction distance even longer.",
+    "local_image_path": "images/stopping-distance_21534_17.jpg",
+    "clean_q": "What is the reaction distance when you are driving at 90 km/h?\nA. 17 metres.\nB. 22 metres.\nC. 27 metres.",
+    "clean_e": "LESSON 13\nBetween the moment the driver sees the danger and the moment the brain processes this information and realises that the brake pedal must be pressed, the vehicle has already travelled a certain distance.\nThe higher the speed, the longer the distance covered during the reaction time.\n• At 50 km/h, the reaction distance is about 15 metres.\n• At 90 km/h, the reaction distance is about 27 metres.\n• At 120 km/h, the reaction distance is about 36 metres.\n- This happens before the brake pedal is pressed.\n- A drunk driver reacts more slowly, which makes the reaction distance even longer."
+  },
+  {
+    "id": "8146",
+    "qid": "8",
+    "qw": "1",
+    "q": "You drive 120 km/hour on this motorway.<br />The stopping distance is about &hellip; <br /><br />A. 60 meters.<br />B. 80 meters.<br />C. 110 meters.",
+    "s": "c",
+    "e": "LESSON 13 &ndash; &lsquo;The stopping distance&rsquo;.<br />50 km/hour: 30 meters.<br />100 km/hour: 80 meters.<br />120 km/hour: 110 meters.",
+    "local_image_path": "images/stopping-distance_8146_8.jpg",
+    "clean_q": "You drive 120 km/hour on this motorway.\nThe stopping distance is about … \nA. 60 meters.\nB. 80 meters.\nC. 110 meters.",
+    "clean_e": "LESSON 13 – ‘The stopping distance’.\n50 km/hour: 30 meters.\n100 km/hour: 80 meters.\n120 km/hour: 110 meters."
+  },
+  {
+    "id": "10990",
+    "qid": "12",
+    "qw": "1",
+    "q": "You have to slow down.<br />Is it correct that the faster you drive, the longer the stopping distance will be?",
+    "s": "yes",
+    "e": "LESSON 13 &ndash; &lsquo;The stopping distance&rsquo;.<br />The faster you drive, the longer the stopping distance.",
+    "local_image_path": "images/stopping-distance_10990_12.jpg",
+    "clean_q": "You have to slow down.\nIs it correct that the faster you drive, the longer the stopping distance will be?",
+    "clean_e": "LESSON 13 – ‘The stopping distance’.\nThe faster you drive, the longer the stopping distance."
+  },
+  {
+    "id": "8147",
+    "qid": "9",
+    "qw": "1",
+    "q": "The faster you drive, the longer the thinking distance. <br /><br />A. Correct.<br />B. False.",
+    "s": "a",
+    "e": "LESSON 13 &ndash; &lsquo;The stopping distance&rsquo;.<br />At 50 km/hour is the thinking or reaction distance for example 15 meters,<br />At 90 km/hour 27 meters.<br />At 120 km/hour 36 meters (before you have pressed the brake pedal).",
+    "local_image_path": "images/stopping-distance_8147_9.jpg",
+    "clean_q": "The faster you drive, the longer the thinking distance. \nA. Correct.\nB. False.",
+    "clean_e": "LESSON 13 – ‘The stopping distance’.\nAt 50 km/hour is the thinking or reaction distance for example 15 meters,\nAt 90 km/hour 27 meters.\nAt 120 km/hour 36 meters (before you have pressed the brake pedal)."
+  },
+  {
+    "id": "17887",
+    "qid": "14",
+    "qw": "1",
+    "q": "Is the braking distance shorter or longer when driving on snow?<br /><br />A. Shorter.<br />B. Longer.<br />C. Makes no difference.",
+    "s": "b",
+    "e": "When driving on snow, the braking distance can be up to four times longer.",
+    "local_image_path": "images/stopping-distance_17887_14.jpg",
+    "clean_q": "Is the braking distance shorter or longer when driving on snow?\nA. Shorter.\nB. Longer.\nC. Makes no difference.",
+    "clean_e": "When driving on snow, the braking distance can be up to four times longer."
+  },
+  {
+    "id": "8145",
+    "qid": "7",
+    "qw": "1",
+    "q": "When you brake with ABS on a dry road surface, the stopping distance is shorter than without ABS on a dry road surface.<br /><br />A. Correct.<br />B. False.",
+    "s": "b",
+    "e": "LESSON 13 &ndash; &lsquo;The stopping distance&rsquo;.<br />Braking with ABS doesn&rsquo;t necessarily mean that the stopping distance is shorter, than braking without ABS.",
+    "local_image_path": "images/stopping-distance_8145_7.jpg",
+    "clean_q": "When you brake with ABS on a dry road surface, the stopping distance is shorter than without ABS on a dry road surface.\nA. Correct.\nB. False.",
+    "clean_e": "LESSON 13 – ‘The stopping distance’.\nBraking with ABS doesn’t necessarily mean that the stopping distance is shorter, than braking without ABS."
+  },
+  {
+    "id": "8140",
+    "qid": "2",
+    "qw": "1",
+    "q": "When you drive 50 km/hour, the thinking distance is about &hellip; <br /><br />A. ... 15 meters.<br />B. ... 30 meters.<br />C. ... 45 meters.",
+    "s": "a",
+    "e": "LESSON 13 &ndash; &lsquo;The stopping distance&rsquo;.<br />At 50 km/hour is the reaction or thinking distance for example 15 meters,<br />At 90 km/hour 27 meters.<br />At 120 km/hour 36 meters.",
+    "local_image_path": "images/stopping-distance_8140_2.jpg",
+    "clean_q": "When you drive 50 km/hour, the thinking distance is about … \nA. ... 15 meters.\nB. ... 30 meters.\nC. ... 45 meters.",
+    "clean_e": "LESSON 13 – ‘The stopping distance’.\nAt 50 km/hour is the reaction or thinking distance for example 15 meters,\nAt 90 km/hour 27 meters.\nAt 120 km/hour 36 meters."
+  },
+  {
+    "id": "8144",
+    "qid": "6",
+    "qw": "1",
+    "q": "When you brake with ABS on a wet road surface, the stopping distance is the same as with ABS on a dry road surface. <br /><br />A. Correct.<br />B. False.",
+    "s": "b",
+    "e": "LESSON 13 &ndash; &lsquo;The stopping distance&rsquo;.<br />When you brake with ABS on a wet road surface, the distance will be longer than with ABS on a dry road surface.",
+    "local_image_path": "images/stopping-distance_8144_6.jpg",
+    "clean_q": "When you brake with ABS on a wet road surface, the stopping distance is the same as with ABS on a dry road surface. \nA. Correct.\nB. False.",
+    "clean_e": "LESSON 13 – ‘The stopping distance’.\nWhen you brake with ABS on a wet road surface, the distance will be longer than with ABS on a dry road surface."
+  },
+  {
+    "id": "8142",
+    "qid": "4",
+    "qw": "1",
+    "q": "On a wet road surface the braking distance is &hellip; on  a dry road surface. <br /><br />A. ... the same as. <br />B. ... shorter than.<br />C. ... longer than.",
+    "s": "c",
+    "e": "LESSON 13 &ndash; &lsquo;The stopping distance&rsquo;.<br />On a wet surface is the braking distance longer.",
+    "local_image_path": "images/stopping-distance_8142_4.jpg",
+    "clean_q": "On a wet road surface the braking distance is … on  a dry road surface. \nA. ... the same as. \nB. ... shorter than.\nC. ... longer than.",
+    "clean_e": "LESSON 13 – ‘The stopping distance’.\nOn a wet surface is the braking distance longer."
+  },
+  {
+    "id": "8139",
+    "qid": "1",
+    "qw": "1",
+    "q": "Another word for the braking distance is the stopping distance. <br /><br />A. Correct.<br />B. False.",
+    "s": "b",
+    "e": "LESSON 13 &ndash; &lsquo;The stopping distance&rsquo;.<br />The braking distance is the distance the car travels, starting from the moment when the driver presses the brake pedal, to the car completely stationary.",
+    "local_image_path": "images/stopping-distance_8139_1.jpg",
+    "clean_q": "Another word for the braking distance is the stopping distance. \nA. Correct.\nB. False.",
+    "clean_e": "LESSON 13 – ‘The stopping distance’.\nThe braking distance is the distance the car travels, starting from the moment when the driver presses the brake pedal, to the car completely stationary."
+  },
+  {
+    "id": "11197",
+    "qid": "13",
+    "qw": "1",
+    "q": "The reaction time when you&#039;re tired &hellip;<br /><br />A. ... increases.<br />B. ... remains the same.",
+    "s": "a",
+    "e": "LESSON 13 &ndash; &lsquo;The stopping distance&rsquo;.<br />Because of fatigue, you will react more slowly to something.",
+    "local_image_path": "images/stopping-distance_11197_13.jpg",
+    "clean_q": "The reaction time when you're tired …\nA. ... increases.\nB. ... remains the same.",
+    "clean_e": "LESSON 13 – ‘The stopping distance’.\nBecause of fatigue, you will react more slowly to something."
+  },
+  {
+    "id": "8148",
+    "qid": "10",
+    "qw": "1",
+    "q": "ABS or the anti-lock braking system prevents the wheels from slipping when you have to hit the brakes. <br /><br />A. Correct.<br />B. False.",
+    "s": "a",
+    "e": "LESSON 13 &ndash; &lsquo;The stopping distance&rsquo;.<br />The ABS-system makes sure that the driver is always in control of the car.",
+    "local_image_path": "images/stopping-distance_8148_10.jpg",
+    "clean_q": "ABS or the anti-lock braking system prevents the wheels from slipping when you have to hit the brakes. \nA. Correct.\nB. False.",
+    "clean_e": "LESSON 13 – ‘The stopping distance’.\nThe ABS-system makes sure that the driver is always in control of the car."
+  },
+  {
+    "id": "21122",
+    "qid": "16",
+    "qw": "1",
+    "q": "You are driving at 120 km/h on a motorway and it starts raining heavily.<br />What do you do?<br /><br />A. Keep a safe distance of 60 metres.<br />B. Slow down and increase the distance.",
+    "s": "b",
+    "e": "LESSON 13<br />The faster you drive, the more distance you must keep.<br />A simple formula helps you calculate it: speed divided by two.<br />At 120 km/h, the safe following distance is 60 metres.<br />At 100 km/h, it becomes 50 metres.<br />But in heavy rain, snow or fog, you must slow down and increase the following distance.",
+    "local_image_path": "images/stopping-distance_21122_16.jpg",
+    "clean_q": "You are driving at 120 km/h on a motorway and it starts raining heavily.\nWhat do you do?\nA. Keep a safe distance of 60 metres.\nB. Slow down and increase the distance.",
+    "clean_e": "LESSON 13\nThe faster you drive, the more distance you must keep.\nA simple formula helps you calculate it: speed divided by two.\nAt 120 km/h, the safe following distance is 60 metres.\nAt 100 km/h, it becomes 50 metres.\nBut in heavy rain, snow or fog, you must slow down and increase the following distance."
+  },
+  {
+    "id": "8143",
+    "qid": "5",
+    "qw": "1",
+    "q": "You drive 100 km/hour with your car on a dry road surface.<br />The stopping distance is &hellip; <br /><br />A. ... more than 50 meters.<br />B. ... 50 meters.<br />C. ... less than 50 meters.",
+    "s": "a",
+    "e": "LESSON 13 &ndash; &lsquo;The stopping distance&rsquo;.<br />The stopping distance is about 80 meters.",
+    "local_image_path": "images/stopping-distance_8143_5.jpg",
+    "clean_q": "You drive 100 km/hour with your car on a dry road surface.\nThe stopping distance is … \nA. ... more than 50 meters.\nB. ... 50 meters.\nC. ... less than 50 meters.",
+    "clean_e": "LESSON 13 – ‘The stopping distance’.\nThe stopping distance is about 80 meters."
+  },
+  {
+    "id": "8141",
+    "qid": "3",
+    "qw": "1",
+    "q": "The distance required to come to a halt once you start using the braking system of the car is the braking distance. <br /><br />A. Correct.<br />B. Incorrect.",
+    "s": "a",
+    "e": "LESSON 13 &ndash; &lsquo;The stopping distance&rsquo;.<br />This is the braking distance.",
+    "local_image_path": "images/stopping-distance_8141_3.jpg",
+    "clean_q": "The distance required to come to a halt once you start using the braking system of the car is the braking distance. \nA. Correct.\nB. Incorrect.",
+    "clean_e": "LESSON 13 – ‘The stopping distance’.\nThis is the braking distance."
+  },
+  {
+    "id": "10734",
+    "qid": "11",
+    "qw": "1",
+    "q": "The speed of the car in front of you is 90 km/hour.<br />What is the safe following distance?<br /><br />A. 45 meters.<br />B. 55 meters.<br />C. 65 meters.",
+    "s": "a",
+    "e": "LESSON 13 &ndash; &lsquo;The stopping distance&rsquo;.<br />Via a simple formula, you can calculate that distance: the speed at which you drive, divided by two.",
+    "local_image_path": "images/stopping-distance_10734_11.jpg",
+    "clean_q": "The speed of the car in front of you is 90 km/hour.\nWhat is the safe following distance?\nA. 45 meters.\nB. 55 meters.\nC. 65 meters.",
+    "clean_e": "LESSON 13 – ‘The stopping distance’.\nVia a simple formula, you can calculate that distance: the speed at which you drive, divided by two."
+  },
+  {
+    "id": "20355",
+    "qid": "15",
+    "qw": "1",
+    "q": "A driver has to make a long trip abroad.<br />How often should he ideally take a break?<br /><br />A. Every half hour.<br />B. Every hour.<br />C. Every two hours.",
+    "s": "c",
+    "e": "LESSON 13<br />During a long car journey, it is recommended to take a short break of at least 15 minutes about every two hours to prevent fatigue and stay alert. Make sure to get out of the car, stretch your legs, take deep breaths, and stay hydrated with water or light snacks.",
+    "local_image_path": "images/stopping-distance_20355_15.jpg",
+    "clean_q": "A driver has to make a long trip abroad.\nHow often should he ideally take a break?\nA. Every half hour.\nB. Every hour.\nC. Every two hours.",
+    "clean_e": "LESSON 13\nDuring a long car journey, it is recommended to take a short break of at least 15 minutes about every two hours to prevent fatigue and stay alert. Make sure to get out of the car, stretch your legs, take deep breaths, and stay hydrated with water or light snacks."
+  }
+]

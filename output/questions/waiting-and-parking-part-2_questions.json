@@ -1,0 +1,391 @@
+[
+  {
+    "id": "8654",
+    "qid": "22",
+    "qw": "1",
+    "q": "The blue car is &hellip; there.<br /><br />A. only allowed to wait.<br />B. allowed to park or wait.<br />C. not allowed to park or wait.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8654_22.jpg",
+    "clean_q": "The blue car is … there.\nA. only allowed to wait.\nB. allowed to park or wait.\nC. not allowed to park or wait."
+  },
+  {
+    "id": "8653",
+    "qid": "21",
+    "qw": "1",
+    "q": "Is the car allowed to park there?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8653_21.jpg",
+    "clean_q": "Is the car allowed to park there?"
+  },
+  {
+    "id": "8650",
+    "qid": "18",
+    "qw": "1",
+    "q": "Is the car allowed to park on this priority road?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8650_18.jpg",
+    "clean_q": "Is the car allowed to park on this priority road?"
+  },
+  {
+    "id": "8637",
+    "qid": "5",
+    "qw": "1",
+    "q": "This car is &hellip; here. <br /><br />A, ... allowed to wait or park.<br />B, ... allowed to wait.<br />C, ... not allowed to wait or park.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8637_5.jpg",
+    "clean_q": "This car is … here. \nA, ... allowed to wait or park.\nB, ... allowed to wait.\nC, ... not allowed to wait or park."
+  },
+  {
+    "id": "8647",
+    "qid": "15",
+    "qw": "1",
+    "q": "When is the owner of the house allowed to park in front of his garage? <br /><br />A. Always.<br />B. When the number plate is displayed on the entrance/exit.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8647_15.jpg",
+    "clean_q": "When is the owner of the house allowed to park in front of his garage? \nA. Always.\nB. When the number plate is displayed on the entrance/exit."
+  },
+  {
+    "id": "8642",
+    "qid": "10",
+    "qw": "1",
+    "q": "You are not allowed to park within (...) meters in front and past the bus stop sign.",
+    "s": "15",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8642_10.jpg",
+    "clean_q": "You are not allowed to park within (...) meters in front and past the bus stop sign."
+  },
+  {
+    "id": "8651",
+    "qid": "19",
+    "qw": "1",
+    "q": "Which sign applies to the road and to the verge? <br /><br />A. Only the first sign.<br />B. Only the second sign.<br />C. The first and the second sign.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8651_19.jpg",
+    "clean_q": "Which sign applies to the road and to the verge? \nA. Only the first sign.\nB. Only the second sign.\nC. The first and the second sign."
+  },
+  {
+    "id": "19757",
+    "qid": "34",
+    "qw": "1",
+    "q": "Does the sign that ends all local prohibitions also put an end to parking signs?",
+    "s": "no",
+    "e": "LESSON 26<br />The sign with a black diagonal stripe informs road users of the end of all regulations previously indicated by signs, except those concerning stopping and parking.",
+    "local_image_path": "images/waiting-and-parking-part-2_19757_34.jpg",
+    "clean_q": "Does the sign that ends all local prohibitions also put an end to parking signs?",
+    "clean_e": "LESSON 26\nThe sign with a black diagonal stripe informs road users of the end of all regulations previously indicated by signs, except those concerning stopping and parking."
+  },
+  {
+    "id": "8660",
+    "qid": "28",
+    "qw": "1",
+    "q": "The blue car is not allowed to park there. <br />But is it allowed to wait there?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8660_28.jpg",
+    "clean_q": "The blue car is not allowed to park there. \nBut is it allowed to wait there?"
+  },
+  {
+    "id": "19728",
+    "qid": "33",
+    "qw": "1",
+    "q": "From 11:30 a.m. to 7:30 p.m., stopping and parking are prohibited.<br /><br />A. Only on the carriageway.<br />B. On the carriageway and on the verge.",
+    "s": "b",
+    "e": "LESSON 26<br />The sign prohibits stopping and parking on both the carriageway and the verge.<br />If there are numbers on the sign, the prohibition applies only to the carriageway.",
+    "local_image_path": "images/waiting-and-parking-part-2_19728_33.jpg",
+    "clean_q": "From 11:30 a.m. to 7:30 p.m., stopping and parking are prohibited.\nA. Only on the carriageway.\nB. On the carriageway and on the verge.",
+    "clean_e": "LESSON 26\nThe sign prohibits stopping and parking on both the carriageway and the verge.\nIf there are numbers on the sign, the prohibition applies only to the carriageway."
+  },
+  {
+    "id": "8661",
+    "qid": "29",
+    "qw": "1",
+    "q": "This picture is taken within a built up area.<br />Are you allowed to park your car on the road just past this sign?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8661_29.jpg",
+    "clean_q": "This picture is taken within a built up area.\nAre you allowed to park your car on the road just past this sign?"
+  },
+  {
+    "id": "8635",
+    "qid": "3",
+    "qw": "1",
+    "q": "When you park your car on the road, you should leave at least (...) meters free.",
+    "s": "3",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8635_3.jpg",
+    "clean_q": "When you park your car on the road, you should leave at least (...) meters free."
+  },
+  {
+    "id": "21430",
+    "qid": "39",
+    "qw": "1",
+    "q": "Today is 12 February.<br />What is the car allowed to do at this place?<br /><br />A. Stop and park.<br />B. Stop only.<br />C. Neither stop nor park.",
+    "s": "a",
+    "e": "LESSON 26<br />This traffic sign means that parking is prohibited on this side of the carriageway from the 1st to the 15th of the month.<br />The additional plate with a downward arrow indicates that the parking prohibition applies up to the sign.",
+    "local_image_path": "images/waiting-and-parking-part-2_21430_39.jpg",
+    "clean_q": "Today is 12 February.\nWhat is the car allowed to do at this place?\nA. Stop and park.\nB. Stop only.\nC. Neither stop nor park.",
+    "clean_e": "LESSON 26\nThis traffic sign means that parking is prohibited on this side of the carriageway from the 1st to the 15th of the month.\nThe additional plate with a downward arrow indicates that the parking prohibition applies up to the sign."
+  },
+  {
+    "id": "8643",
+    "qid": "11",
+    "qw": "1",
+    "q": "Is this correct? <br />Past these signs you are not allowed to wait or park on the road or on the verge.",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8643_11.jpg",
+    "clean_q": "Is this correct? \nPast these signs you are not allowed to wait or park on the road or on the verge."
+  },
+  {
+    "id": "8633",
+    "qid": "1",
+    "qw": "1",
+    "q": "This car here is  ...<br /><br />A. ... allowed to wait.<br />B. ... allowed to wait or park.<br />C. ... not allowed to wait or park.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8633_1.jpg",
+    "clean_q": "This car here is  ...\nA. ... allowed to wait.\nB. ... allowed to wait or park.\nC. ... not allowed to wait or park."
+  },
+  {
+    "id": "8645",
+    "qid": "13",
+    "qw": "1",
+    "q": "It is the 26th March.<br />Are you allowed to park in front of these signs?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8645_13.jpg",
+    "clean_q": "It is the 26th March.\nAre you allowed to park in front of these signs?"
+  },
+  {
+    "id": "8649",
+    "qid": "17",
+    "qw": "1",
+    "q": "Are you allowed to wait on the bus stop to let someone in or out?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8649_17.jpg",
+    "clean_q": "Are you allowed to wait on the bus stop to let someone in or out?"
+  },
+  {
+    "id": "8656",
+    "qid": "24",
+    "qw": "1",
+    "q": "Are you allowed to park on the verge in front of this sign?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8656_24.jpg",
+    "clean_q": "Are you allowed to park on the verge in front of this sign?"
+  },
+  {
+    "id": "8641",
+    "qid": "9",
+    "qw": "1",
+    "q": "There is no valid parking licence for disabled persons in the car. <br />You are &hellip;<br /><br />A. ... allowed to wait.<br />B. ... allowed to wait or park.<br />C. ... not allowed to wait or park.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8641_9.jpg",
+    "clean_q": "There is no valid parking licence for disabled persons in the car. \nYou are …\nA. ... allowed to wait.\nB. ... allowed to wait or park.\nC. ... not allowed to wait or park."
+  },
+  {
+    "id": "8638",
+    "qid": "6",
+    "qw": "1",
+    "q": "No parking applies until the next junction &hellip; <br /><br />A. ... only on the road.<br />B. ... on the road and on the verge.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8638_6.jpg",
+    "clean_q": "No parking applies until the next junction … \nA. ... only on the road.\nB. ... on the road and on the verge."
+  },
+  {
+    "id": "8639",
+    "qid": "7",
+    "qw": "1",
+    "q": "Is the blue car allowed to park there?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8639_7.jpg",
+    "clean_q": "Is the blue car allowed to park there?"
+  },
+  {
+    "id": "8646",
+    "qid": "14",
+    "qw": "1",
+    "q": "An obstacle on the cycle lane. <br />You are not allowed to park or wait, within 5 meters, in front or past the place where the cyclists have to use the road. <br /><br />A. Correct.<br />B. Incorrect.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8646_14.jpg",
+    "clean_q": "An obstacle on the cycle lane. \nYou are not allowed to park or wait, within 5 meters, in front or past the place where the cyclists have to use the road. \nA. Correct.\nB. Incorrect."
+  },
+  {
+    "id": "8634",
+    "qid": "2",
+    "qw": "1",
+    "q": "Which arrow indicates that the parking prohibition starts at the arrow?  <br /><br />A. Arrow 1.<br />B. Arrow 2.<br />C. Arrow 3.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8634_2.jpg",
+    "clean_q": "Which arrow indicates that the parking prohibition starts at the arrow?  \nA. Arrow 1.\nB. Arrow 2.\nC. Arrow 3."
+  },
+  {
+    "id": "8636",
+    "qid": "4",
+    "qw": "1",
+    "q": "You are allowed to wait on a priority road &hellip; <br /><br />A. ... within a built up area.<br />B. ... outside a built up area.<br />C. ... within or outside a built up area.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8636_4.jpg",
+    "clean_q": "You are allowed to wait on a priority road … \nA. ... within a built up area.\nB. ... outside a built up area.\nC. ... within or outside a built up area."
+  },
+  {
+    "id": "8662",
+    "qid": "30",
+    "qw": "1",
+    "q": "There is a white line at the edge of the road.<br />The blue car is &hellip; there. <br /><br />A. ... only allowed to wait.<br />B. ... allowed to wait or park.<br />C. ... not allowed to wait or park.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8662_30.jpg",
+    "clean_q": "There is a white line at the edge of the road.\nThe blue car is … there. \nA. ... only allowed to wait.\nB. ... allowed to wait or park.\nC. ... not allowed to wait or park."
+  },
+  {
+    "id": "20331",
+    "qid": "35",
+    "qw": "1",
+    "q": "The driver of the car has stopped to let the child get in.<br />Is that allowed at this place?<br /><br />A. Yes.<br />B. No.",
+    "s": "a",
+    "e": "LESSON 26<br />There is a broken white line between the traffic lanes. That means parking is not allowed there.<br />But stopping to let someone get in is allowed.",
+    "local_image_path": "images/waiting-and-parking-part-2_20331_35.jpg",
+    "clean_q": "The driver of the car has stopped to let the child get in.\nIs that allowed at this place?\nA. Yes.\nB. No.",
+    "clean_e": "LESSON 26\nThere is a broken white line between the traffic lanes. That means parking is not allowed there.\nBut stopping to let someone get in is allowed."
+  },
+  {
+    "id": "8659",
+    "qid": "27",
+    "qw": "1",
+    "q": "Are you allowed to park your car on the yellow question mark?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8659_27.jpg",
+    "clean_q": "Are you allowed to park your car on the yellow question mark?"
+  },
+  {
+    "id": "8652",
+    "qid": "20",
+    "qw": "1",
+    "q": "Is the white car allowed to park here?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8652_20.jpg",
+    "clean_q": "Is the white car allowed to park here?"
+  },
+  {
+    "id": "20587",
+    "qid": "36",
+    "qw": "1",
+    "q": "A priority road outside a built-up area.<br />May the blue car stop on the roadway to let a passenger get in?<br /><br />A. Yes.<br />B. No.",
+    "s": "a",
+    "e": "LESSON 26<br />Inside a built-up area, you may stop on the roadway and also park there if it is not divided into lanes.<br />Outside a built-up area, you may stop on the roadway, but not park.",
+    "local_image_path": "images/waiting-and-parking-part-2_20587_36.jpg",
+    "clean_q": "A priority road outside a built-up area.\nMay the blue car stop on the roadway to let a passenger get in?\nA. Yes.\nB. No.",
+    "clean_e": "LESSON 26\nInside a built-up area, you may stop on the roadway and also park there if it is not divided into lanes.\nOutside a built-up area, you may stop on the roadway, but not park."
+  },
+  {
+    "id": "8658",
+    "qid": "26",
+    "qw": "1",
+    "q": "Which of these signs apply to the road and to the verge? <br /><br />A. Only sign A.<br />B. Only sign B.<br />C. Sign A and sign B.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8658_26.jpg",
+    "clean_q": "Which of these signs apply to the road and to the verge? \nA. Only sign A.\nB. Only sign B.\nC. Sign A and sign B."
+  },
+  {
+    "id": "8640",
+    "qid": "8",
+    "qw": "1",
+    "q": "When do you have to park the car on the other side of the road? <br /><br />A. The last day of the period before midnight. <br />B. The last day of the period between 7.30 pm and 8.00 pm. <br />C. The last day of the period between 8.00 pm and 10.00 pm.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8640_8.jpg",
+    "clean_q": "When do you have to park the car on the other side of the road? \nA. The last day of the period before midnight. \nB. The last day of the period between 7.30 pm and 8.00 pm. \nC. The last day of the period between 8.00 pm and 10.00 pm."
+  },
+  {
+    "id": "12693",
+    "qid": "31",
+    "qw": "1",
+    "q": "This sign is above the sign: start of a built-up area. It&#039;s March 7th. Where can you park? <br /><br />A. Along the side of the odd house numbers. <br />B. Along the side of the even house numbers.",
+    "s": "a",
+    "e": "The sign semi-monthly parking is actually no longer applied. That is why it is no longer on our theory pages. If you still have questions about it, here is the explanation: <br />The half-monthly alternating parking is in effect on all carriageways in a built-up area, when this traffic sign is placed above the traffic signs indicating the start of this built-up area. Parking on the road is then only allowed from the 1st to the 15th of the month, on the side of the buildings with odd numbers and, from the 16th to the end of the month, on the side of the buildings with even numbers.",
+    "local_image_path": "images/waiting-and-parking-part-2_12693_31.jpg",
+    "clean_q": "This sign is above the sign: start of a built-up area. It's March 7th. Where can you park? \nA. Along the side of the odd house numbers. \nB. Along the side of the even house numbers.",
+    "clean_e": "The sign semi-monthly parking is actually no longer applied. That is why it is no longer on our theory pages. If you still have questions about it, here is the explanation: \nThe half-monthly alternating parking is in effect on all carriageways in a built-up area, when this traffic sign is placed above the traffic signs indicating the start of this built-up area. Parking on the road is then only allowed from the 1st to the 15th of the month, on the side of the buildings with odd numbers and, from the 16th to the end of the month, on the side of the buildings with even numbers."
+  },
+  {
+    "id": "8655",
+    "qid": "23",
+    "qw": "1",
+    "q": "It is the 24th March.<br />What is correct?<br />Past this sign I am &hellip; on this side of the road. <br /><br />A. ... allowed to wait on the verge.<br />B. ... not allowed to park on the road or on the verge. <br />C. ... allowed to park or wait on the road or on the verge.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8655_23.jpg",
+    "clean_q": "It is the 24th March.\nWhat is correct?\nPast this sign I am … on this side of the road. \nA. ... allowed to wait on the verge.\nB. ... not allowed to park on the road or on the verge. \nC. ... allowed to park or wait on the road or on the verge."
+  },
+  {
+    "id": "21445",
+    "qid": "40",
+    "qw": "1",
+    "q": "The red car is parked at this place. Is this allowed?<br /><br />A. Yes.<br />B. No.",
+    "s": "b",
+    "e": "LESSON 26<br />This traffic sign means that parking is prohibited on this side of the carriageway and also on the verge.<br />The additional plate with the black downward arrow indicates that the parking prohibition ends at the sign.<br />➡️ However: beyond the sign, the carriageway is divided into two lanes by a broken white line.<br />On such a carriageway, parking is not allowed.<br />➡️ Stopping (for example to allow a passenger to get in or out) is allowed.",
+    "local_image_path": "images/waiting-and-parking-part-2_21445_40.jpg",
+    "clean_q": "The red car is parked at this place. Is this allowed?\nA. Yes.\nB. No.",
+    "clean_e": "LESSON 26\nThis traffic sign means that parking is prohibited on this side of the carriageway and also on the verge.\nThe additional plate with the black downward arrow indicates that the parking prohibition ends at the sign.\n➡️ However: beyond the sign, the carriageway is divided into two lanes by a broken white line.\nOn such a carriageway, parking is not allowed.\n➡️ Stopping (for example to allow a passenger to get in or out) is allowed."
+  },
+  {
+    "id": "19638",
+    "qid": "32",
+    "qw": "1",
+    "q": "A yellow broken line at the edge of the carriageway.<br />This car may stop to let someone get out.<br />But is the driver also allowed to park there?",
+    "s": "no",
+    "e": "LESSON 26<br />When a yellow broken line is painted at the edge of the carriageway, you may only stop.<br />Parking on the carriageway is prohibited.",
+    "local_image_path": "images/waiting-and-parking-part-2_19638_32.jpg",
+    "clean_q": "A yellow broken line at the edge of the carriageway.\nThis car may stop to let someone get out.\nBut is the driver also allowed to park there?",
+    "clean_e": "LESSON 26\nWhen a yellow broken line is painted at the edge of the carriageway, you may only stop.\nParking on the carriageway is prohibited."
+  },
+  {
+    "id": "8648",
+    "qid": "16",
+    "qw": "1",
+    "q": "Which of these signs applies on the road and on the verge?<br /><br />A. Only the first sign.<br />B. Only the second sign.<br />C. The first and the second sign.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8648_16.jpg",
+    "clean_q": "Which of these signs applies on the road and on the verge?\nA. Only the first sign.\nB. Only the second sign.\nC. The first and the second sign."
+  },
+  {
+    "id": "8644",
+    "qid": "12",
+    "qw": "1",
+    "q": "Within a built-up area.<br />Is the car allowed to park on this priority road?",
+    "s": "yes",
+    "e": "LESSON 26<br />Within a built-up area, a car may park on the roadway. Outside a built-up area, a car must park on the shoulder.",
+    "local_image_path": "images/waiting-and-parking-part-2_8644_12.jpg",
+    "clean_q": "Within a built-up area.\nIs the car allowed to park on this priority road?",
+    "clean_e": "LESSON 26\nWithin a built-up area, a car may park on the roadway. Outside a built-up area, a car must park on the shoulder."
+  },
+  {
+    "id": "8657",
+    "qid": "25",
+    "qw": "1",
+    "q": "Within a built up area. <br />The blue car is &hellip; here. <br /><br />A. only allowed to wait.<br />B. allowed to wait or park.<br />C. not allowed to wait or park.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-2_8657_25.jpg",
+    "clean_q": "Within a built up area. \nThe blue car is … here. \nA. only allowed to wait.\nB. allowed to wait or park.\nC. not allowed to wait or park."
+  }
+]

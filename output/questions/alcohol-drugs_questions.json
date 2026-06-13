@@ -1,0 +1,423 @@
+[
+  {
+    "id": "8850",
+    "qid": "2",
+    "qw": "1",
+    "q": "During a police control you are asked to do a breath test. <br />How much waiting time can you ask for, before the test? <br /><br />A. You must blow at once.<br />B. 15 minutes.<br />C. 1 hour.",
+    "s": "a",
+    "e": "The 15-minute waiting period has been abolished since May 1, 2024",
+    "local_image_path": "images/alcohol-drugs_8850_2.jpg",
+    "clean_q": "During a police control you are asked to do a breath test. \nHow much waiting time can you ask for, before the test? \nA. You must blow at once.\nB. 15 minutes.\nC. 1 hour.",
+    "clean_e": "The 15-minute waiting period has been abolished since May 1, 2024"
+  },
+  {
+    "id": "8873",
+    "qid": "25",
+    "qw": "1",
+    "q": "Can drugs reinforce the negative effect of the alcohol level in the blood?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8873_25.jpg",
+    "clean_q": "Can drugs reinforce the negative effect of the alcohol level in the blood?"
+  },
+  {
+    "id": "8870",
+    "qid": "22",
+    "qw": "1",
+    "q": "At the start of a breath analysis you can ask for 15 minutes waiting time.",
+    "s": "no",
+    "e": "The 15-minute waiting period has been abolished since May 1, 2024",
+    "local_image_path": "images/alcohol-drugs_8870_22.jpg",
+    "clean_q": "At the start of a breath analysis you can ask for 15 minutes waiting time.",
+    "clean_e": "The 15-minute waiting period has been abolished since May 1, 2024"
+  },
+  {
+    "id": "8858",
+    "qid": "10",
+    "qw": "1",
+    "q": "After a breath analysis the result is: 0,39 mg/litre. <br />You immediately get a driving ban of (... ) hours.",
+    "s": "6",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8858_10.jpg",
+    "clean_q": "After a breath analysis the result is: 0,39 mg/litre. \nYou immediately get a driving ban of (... ) hours."
+  },
+  {
+    "id": "8856",
+    "qid": "8",
+    "qw": "1",
+    "q": "Who won&rsquo;t be asked to do a breath test? <br /><br />A. Someone on a parking area of a department store who is going to drive a car. <br />B. A cyclist who is pushing his bicycle on the public road.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8856_8.jpg",
+    "clean_q": "Who won’t be asked to do a breath test? \nA. Someone on a parking area of a department store who is going to drive a car. \nB. A cyclist who is pushing his bicycle on the public road."
+  },
+  {
+    "id": "8859",
+    "qid": "11",
+    "qw": "1",
+    "q": "When medication is taken together with alcohol, the effect of alcohol can be reinforced. <br /><br />A. Correct.<br />B. Incorrect.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8859_11.jpg",
+    "clean_q": "When medication is taken together with alcohol, the effect of alcohol can be reinforced. \nA. Correct.\nB. Incorrect."
+  },
+  {
+    "id": "8862",
+    "qid": "14",
+    "qw": "1",
+    "q": "You tell the police officer that you have trouble breathing and you refuse a breath test.<br />What is the consequence? <br /><br />A. You are allowed to drive on.<br />B. You get a driving ban of 3 hours.<br />C. You get a driving ban of 6 hours.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8862_14.jpg",
+    "clean_q": "You tell the police officer that you have trouble breathing and you refuse a breath test.\nWhat is the consequence? \nA. You are allowed to drive on.\nB. You get a driving ban of 3 hours.\nC. You get a driving ban of 6 hours."
+  },
+  {
+    "id": "8879",
+    "qid": "31",
+    "qw": "1",
+    "q": "When do you have a &lsquo;positive&rsquo; alcohol level? <br /><br />A. Equal to 0,22 mg or more alcohol per litre exhaled alveolar air.<br />B. When more than 0,22 mg alcohol per litre exhaled alveolar air.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8879_31.jpg",
+    "clean_q": "When do you have a ‘positive’ alcohol level? \nA. Equal to 0,22 mg or more alcohol per litre exhaled alveolar air.\nB. When more than 0,22 mg alcohol per litre exhaled alveolar air."
+  },
+  {
+    "id": "8852",
+    "qid": "4",
+    "qw": "1",
+    "q": "The result of a breath analysis is at least 0.22 but less than 0.35 milligram alcohol per litre exhaled alveolar air. <br />What are the consequences?<br /><br />A. An immediate driving ban of six hours. <br />B. An immediate driving ban of three hours.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8852_4.jpg",
+    "clean_q": "The result of a breath analysis is at least 0.22 but less than 0.35 milligram alcohol per litre exhaled alveolar air. \nWhat are the consequences?\nA. An immediate driving ban of six hours. \nB. An immediate driving ban of three hours."
+  },
+  {
+    "id": "8866",
+    "qid": "18",
+    "qw": "1",
+    "q": "Can they impose a breath analysis before you have done a breath test?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8866_18.jpg",
+    "clean_q": "Can they impose a breath analysis before you have done a breath test?"
+  },
+  {
+    "id": "8855",
+    "qid": "7",
+    "qw": "1",
+    "q": "A breath test can be asked to &hellip; <br /><br />A. ... anyone on the public road.<br />B. ... a pedestrian on the public road.<br />C. ... anyone who is driving a vehicle on the public road.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8855_7.jpg",
+    "clean_q": "A breath test can be asked to … \nA. ... anyone on the public road.\nB. ... a pedestrian on the public road.\nC. ... anyone who is driving a vehicle on the public road."
+  },
+  {
+    "id": "8849",
+    "qid": "1",
+    "qw": "1",
+    "q": "The blowing into the device that can indicate that you have been drinking alcohol, is called a &hellip; <br /><br />A. ... breath test.<br />B. ... breath analysis.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8849_1.jpg",
+    "clean_q": "The blowing into the device that can indicate that you have been drinking alcohol, is called a … \nA. ... breath test.\nB. ... breath analysis."
+  },
+  {
+    "id": "10726",
+    "qid": "34",
+    "qw": "1",
+    "q": "You refuse a saliva test.<br />How many hours you can not drive?<br /><br />A. 3 hours.<br />B. 6 hours.<br />C. 12 hours.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_10726_34.jpg",
+    "clean_q": "You refuse a saliva test.\nHow many hours you can not drive?\nA. 3 hours.\nB. 6 hours.\nC. 12 hours."
+  },
+  {
+    "id": "8872",
+    "qid": "24",
+    "qw": "1",
+    "q": "The result of a breath analysis shows 0.30mg/litre alcohol in the exhaled alveolar air. <br />Do you get a temporary driving ban? <br /><br />A. No, because you are below the limit.<br />B. Yes, 3 hours.<br />C. Yes, 6 hours.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8872_24.jpg",
+    "clean_q": "The result of a breath analysis shows 0.30mg/litre alcohol in the exhaled alveolar air. \nDo you get a temporary driving ban? \nA. No, because you are below the limit.\nB. Yes, 3 hours.\nC. Yes, 6 hours."
+  },
+  {
+    "id": "8878",
+    "qid": "30",
+    "qw": "1",
+    "q": "The result of a breath analysis shows 0.40mg/litre alcohol in the exhaled alveolar air. <br />Do you get a temporary driving ban?<br /> <br />A. No, because you are below the limit.<br />B. Yes, 3 hours.<br />C. Yes, 6 hours.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8878_30.jpg",
+    "clean_q": "The result of a breath analysis shows 0.40mg/litre alcohol in the exhaled alveolar air. \nDo you get a temporary driving ban?\n \nA. No, because you are below the limit.\nB. Yes, 3 hours.\nC. Yes, 6 hours."
+  },
+  {
+    "id": "8854",
+    "qid": "6",
+    "qw": "1",
+    "q": "You drank a lot of beer. It&rsquo;s been said that a few cups of coffee can reduce the alcohol level in your blood. <br />Is this true?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8854_6.jpg",
+    "clean_q": "You drank a lot of beer. It’s been said that a few cups of coffee can reduce the alcohol level in your blood. \nIs this true?"
+  },
+  {
+    "id": "8877",
+    "qid": "29",
+    "qw": "1",
+    "q": "The result of a breath analysis shows 0.28mg/litre alcohol in the exhaled alveolar air. <br />Do you get a temporary driving ban?<br /> <br />A. No, because you are below the limit.<br />B. Yes, 3 hours.<br />C. Yes, 6 hours.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8877_29.jpg",
+    "clean_q": "The result of a breath analysis shows 0.28mg/litre alcohol in the exhaled alveolar air. \nDo you get a temporary driving ban?\n \nA. No, because you are below the limit.\nB. Yes, 3 hours.\nC. Yes, 6 hours."
+  },
+  {
+    "id": "8863",
+    "qid": "15",
+    "qw": "1",
+    "q": "A driver exits a paid parking area. The policeman wants to take a breath test, but the driver refuses his corporation. <br /><br />The policeman will give him a temporary driving ban of (...) hours.",
+    "s": "6",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8863_15.jpg",
+    "clean_q": "A driver exits a paid parking area. The policeman wants to take a breath test, but the driver refuses his corporation. \nThe policeman will give him a temporary driving ban of (...) hours."
+  },
+  {
+    "id": "8869",
+    "qid": "21",
+    "qw": "1",
+    "q": "The test which measures accurately how much the alcohol level is in the exhaled alveolar air, is called &hellip; <br /><br />A. ... the breath test.<br />B. ... the breath analysis.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8869_21.jpg",
+    "clean_q": "The test which measures accurately how much the alcohol level is in the exhaled alveolar air, is called … \nA. ... the breath test.\nB. ... the breath analysis."
+  },
+  {
+    "id": "8865",
+    "qid": "17",
+    "qw": "1",
+    "q": "A breath analysis showed an alcohol level in the exhaled alveolar air of at least 0,35 mg/litre and you got a driving ban of six hours.<br />What happens after these six hours?  <br /><br />A. The temporary driving ban has passed and you are allowed to leave. <br />B. You must do another breath test or a breath analysis.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8865_17.jpg",
+    "clean_q": "A breath analysis showed an alcohol level in the exhaled alveolar air of at least 0,35 mg/litre and you got a driving ban of six hours.\nWhat happens after these six hours?  \nA. The temporary driving ban has passed and you are allowed to leave. \nB. You must do another breath test or a breath analysis."
+  },
+  {
+    "id": "8876",
+    "qid": "28",
+    "qw": "1",
+    "q": "You are being tough and you refuse an alcohol control.<br />You&rsquo;ll get an immediate temporary ban of (&hellip;) hours.",
+    "s": "6",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8876_28.jpg",
+    "clean_q": "You are being tough and you refuse an alcohol control.\nYou’ll get an immediate temporary ban of (…) hours."
+  },
+  {
+    "id": "19459",
+    "qid": "36",
+    "qw": "1",
+    "q": "Is there a medicine to reduce the alcohol concentration in the blood?<br /><br />A. Yes, a doctor can prescribe one.<br />B. Yes, it is available in a pharmacy.<br />C. No, such a medicine does not exist.",
+    "s": "c",
+    "e": "LESSON 28",
+    "local_image_path": "images/alcohol-drugs_19459_36.jpg",
+    "clean_q": "Is there a medicine to reduce the alcohol concentration in the blood?\nA. Yes, a doctor can prescribe one.\nB. Yes, it is available in a pharmacy.\nC. No, such a medicine does not exist.",
+    "clean_e": "LESSON 28"
+  },
+  {
+    "id": "8868",
+    "qid": "20",
+    "qw": "1",
+    "q": "What is the test called which tests if you have taken drugs? <br /><br />A. The drugs test.<br />B. The road site test/ saliva test.<br />C. The thermo test.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8868_20.jpg",
+    "clean_q": "What is the test called which tests if you have taken drugs? \nA. The drugs test.\nB. The road site test/ saliva test.\nC. The thermo test."
+  },
+  {
+    "id": "21116",
+    "qid": "38",
+    "qw": "1",
+    "q": "From what alcohol level in the breath are you committing an offence?<br /><br />A. From 0.22 mg/l.<br />B. From 0.25 mg/l.<br />C. From 0.35 mg/l.",
+    "s": "a",
+    "e": "LESSON 28<br />- If you have less than 0.22 mg/l, you may continue driving.<br />- If the result is 0.22 mg/l or more, but below 0.35 mg/l, you must hand over your driving licence for 3 hours.<br />It is an offence and you will receive a fine.<br />- If you have 0.35 mg/l or more, you must hand over your driving licence for 6 hours.<br />An immediate withdrawal of your licence is also possible, and you will receive a fine.<br />After those 6 hours, a new breath test or breath analysis will follow.",
+    "local_image_path": "images/alcohol-drugs_21116_38.jpg",
+    "clean_q": "From what alcohol level in the breath are you committing an offence?\nA. From 0.22 mg/l.\nB. From 0.25 mg/l.\nC. From 0.35 mg/l.",
+    "clean_e": "LESSON 28\n- If you have less than 0.22 mg/l, you may continue driving.\n- If the result is 0.22 mg/l or more, but below 0.35 mg/l, you must hand over your driving licence for 3 hours.\nIt is an offence and you will receive a fine.\n- If you have 0.35 mg/l or more, you must hand over your driving licence for 6 hours.\nAn immediate withdrawal of your licence is also possible, and you will receive a fine.\nAfter those 6 hours, a new breath test or breath analysis will follow."
+  },
+  {
+    "id": "21331",
+    "qid": "39",
+    "qw": "1",
+    "q": "You are involved in an accident.<br />May the police ask you to take a saliva test?<br /><br />A. Only if there is a strong suspicion of drug use.<br />B. Yes, in the event of an accident, always.",
+    "s": "b",
+    "e": "LESSON 28<br />Normally, a saliva test may only be carried out if the police suspect drug use.<br />BUT NOTE: if you are involved in an accident, the police may always require a saliva test.<br />If the result is above the permitted limit:<br />- your driving licence must be immediately surrendered for 12 hours;<br />- an immediate withdrawal of the driving licence is also possible;<br />- after the 12 hours, a new saliva test is carried out.<br />Offenders also risk heavy fines and a driving ban of up to 5 years.",
+    "local_image_path": "images/alcohol-drugs_21331_39.jpg",
+    "clean_q": "You are involved in an accident.\nMay the police ask you to take a saliva test?\nA. Only if there is a strong suspicion of drug use.\nB. Yes, in the event of an accident, always.",
+    "clean_e": "LESSON 28\nNormally, a saliva test may only be carried out if the police suspect drug use.\nBUT NOTE: if you are involved in an accident, the police may always require a saliva test.\nIf the result is above the permitted limit:\n- your driving licence must be immediately surrendered for 12 hours;\n- an immediate withdrawal of the driving licence is also possible;\n- after the 12 hours, a new saliva test is carried out.\nOffenders also risk heavy fines and a driving ban of up to 5 years."
+  },
+  {
+    "id": "21677",
+    "qid": "41",
+    "qw": "1",
+    "q": "This young man leaves a caf&eacute; and wants to get into the car.<br />What may the police officer ask him to do?<br /><br />A. An alcohol test.<br />B. A saliva test.<br />C. An alcohol test and a saliva test.",
+    "s": "a",
+    "e": "LESSON 28<br />The police may always require an alcohol test from someone who intends to drive.<br />A saliva test may only be taken if there is an objective suspicion of drug use, based on observable signs.<br />In case of an accident, a saliva test is always allowed.",
+    "local_image_path": "images/alcohol-drugs_21677_41.jpg",
+    "clean_q": "This young man leaves a café and wants to get into the car.\nWhat may the police officer ask him to do?\nA. An alcohol test.\nB. A saliva test.\nC. An alcohol test and a saliva test.",
+    "clean_e": "LESSON 28\nThe police may always require an alcohol test from someone who intends to drive.\nA saliva test may only be taken if there is an objective suspicion of drug use, based on observable signs.\nIn case of an accident, a saliva test is always allowed."
+  },
+  {
+    "id": "8864",
+    "qid": "16",
+    "qw": "1",
+    "q": "Can a breath test or a breath analysis be imposed to horseback riders on the public road?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8864_16.jpg",
+    "clean_q": "Can a breath test or a breath analysis be imposed to horseback riders on the public road?"
+  },
+  {
+    "id": "19722",
+    "qid": "37",
+    "qw": "1",
+    "q": "The police can ask any driver to take a breath test.<br />Is that also the case for a saliva test?<br /><br />A. Yes, a saliva test can be imposed on any driver.<br />B. Yes, if there is, based on objective findings, a suspicion of drug use.",
+    "s": "b",
+    "e": "LESSON 28<br />In Belgium, there is zero tolerance for drugs in traffic. The police regularly carry out drug checks to determine whether you have certain prohibited substances in your body.<br />But a saliva test may only be carried out if the police suspect that you are under the influence of drugs, and this suspicion must be based on objective findings.",
+    "local_image_path": "images/alcohol-drugs_19722_37.jpg",
+    "clean_q": "The police can ask any driver to take a breath test.\nIs that also the case for a saliva test?\nA. Yes, a saliva test can be imposed on any driver.\nB. Yes, if there is, based on objective findings, a suspicion of drug use.",
+    "clean_e": "LESSON 28\nIn Belgium, there is zero tolerance for drugs in traffic. The police regularly carry out drug checks to determine whether you have certain prohibited substances in your body.\nBut a saliva test may only be carried out if the police suspect that you are under the influence of drugs, and this suspicion must be based on objective findings."
+  },
+  {
+    "id": "8874",
+    "qid": "26",
+    "qw": "1",
+    "q": "At a breath test an S appears on the screen..<br /><br />A. You have to do a breath analysis. <br />B. You get a temporary driving ban of three hours. <br />C. You may leave.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8874_26.jpg",
+    "clean_q": "At a breath test an S appears on the screen..\nA. You have to do a breath analysis. \nB. You get a temporary driving ban of three hours. \nC. You may leave."
+  },
+  {
+    "id": "8875",
+    "qid": "27",
+    "qw": "1",
+    "q": "During an alcohol control the police also asks for the car registration. <br /><br />A. You don&rsquo;t need to have it in the car and therefore you don&rsquo;t have to show it.<br />B. You give the original document.<br />C. You give the original document or a color copy.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8875_27.jpg",
+    "clean_q": "During an alcohol control the police also asks for the car registration. \nA. You don’t need to have it in the car and therefore you don’t have to show it.\nB. You give the original document.\nC. You give the original document or a color copy."
+  },
+  {
+    "id": "8867",
+    "qid": "19",
+    "qw": "1",
+    "q": "A blood test must be done by &hellip; <br /><br />A. the police.<br />B. a designated doctor by the police. <br />C. a doctor of choice of the patient.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8867_19.jpg",
+    "clean_q": "A blood test must be done by … \nA. the police.\nB. a designated doctor by the police. \nC. a doctor of choice of the patient."
+  },
+  {
+    "id": "8860",
+    "qid": "12",
+    "qw": "1",
+    "q": "The result of a breath analysis is less than 0,22 milligram alcohol per litre exhaled alveolar air.<br />What are the consequences? <br /><br />A. You may drive on.<br />B. A breath analysis will be taken.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8860_12.jpg",
+    "clean_q": "The result of a breath analysis is less than 0,22 milligram alcohol per litre exhaled alveolar air.\nWhat are the consequences? \nA. You may drive on.\nB. A breath analysis will be taken."
+  },
+  {
+    "id": "8861",
+    "qid": "13",
+    "qw": "1",
+    "q": "Can a breath test be imposed to a pedestrian who was drunk when the accident happened, which he might have caused himself?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8861_13.jpg",
+    "clean_q": "Can a breath test be imposed to a pedestrian who was drunk when the accident happened, which he might have caused himself?"
+  },
+  {
+    "id": "8853",
+    "qid": "5",
+    "qw": "1",
+    "q": "Are you allowed to wait 15 minutes when you have to do a breath analysis?",
+    "s": "no",
+    "e": "The 15-minute waiting period has been abolished since May 1, 2024",
+    "local_image_path": "images/alcohol-drugs_8853_5.jpg",
+    "clean_q": "Are you allowed to wait 15 minutes when you have to do a breath analysis?",
+    "clean_e": "The 15-minute waiting period has been abolished since May 1, 2024"
+  },
+  {
+    "id": "12504",
+    "qid": "35",
+    "qw": "1",
+    "q": "You have had your definitive driver&#039;s license for two years.<br />Will the police also take a breath test from your passenger?",
+    "s": "no",
+    "e": "LESSON 28 - &quot;Alcohol.&quot;<br />That passenger is not a teacher or supervisor of the driver.",
+    "local_image_path": "images/alcohol-drugs_12504_35.jpg",
+    "clean_q": "You have had your definitive driver's license for two years.\nWill the police also take a breath test from your passenger?",
+    "clean_e": "LESSON 28 - \"Alcohol.\"\nThat passenger is not a teacher or supervisor of the driver."
+  },
+  {
+    "id": "8871",
+    "qid": "23",
+    "qw": "1",
+    "q": "What do you do if you have to drive at night? <br /><br />A. Drinking coffee regularly. <br />B. Drink plenty of water. <br />C. Take a break every two hours.",
+    "s": "c",
+    "e": "LESSON 28",
+    "local_image_path": "images/alcohol-drugs_8871_23.jpg",
+    "clean_q": "What do you do if you have to drive at night? \nA. Drinking coffee regularly. \nB. Drink plenty of water. \nC. Take a break every two hours.",
+    "clean_e": "LESSON 28"
+  },
+  {
+    "id": "21656",
+    "qid": "40",
+    "qw": "1",
+    "q": "During an alcohol check, you test positive.<br />You can however prove that you did not drink alcohol, but that you are taking medication with the same effect as alcohol.<br />What is the consequence?<br /><br />A. None, because you did not drink alcohol.<br />B. Punishable in the same way as if you had consumed alcohol.",
+    "s": "b",
+    "e": "LESSON<br />If you take medication that has the same effects as alcohol (such as drowsiness or reduced reaction time), this is clearly stated in the leaflet.<br />In that case, you are not allowed to drive a vehicle.<br />Driving anyway is punishable in the same way as driving under the influence of alcohol.",
+    "local_image_path": "images/alcohol-drugs_21656_40.jpg",
+    "clean_q": "During an alcohol check, you test positive.\nYou can however prove that you did not drink alcohol, but that you are taking medication with the same effect as alcohol.\nWhat is the consequence?\nA. None, because you did not drink alcohol.\nB. Punishable in the same way as if you had consumed alcohol.",
+    "clean_e": "LESSON\nIf you take medication that has the same effects as alcohol (such as drowsiness or reduced reaction time), this is clearly stated in the leaflet.\nIn that case, you are not allowed to drive a vehicle.\nDriving anyway is punishable in the same way as driving under the influence of alcohol."
+  },
+  {
+    "id": "8851",
+    "qid": "3",
+    "qw": "1",
+    "q": "The result of a breath test is NOT SAFE.<br />What are the consequences? <br /><br />A, You are allowed to drive on. <br />B, A breath analysis will be taken.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8851_3.jpg",
+    "clean_q": "The result of a breath test is NOT SAFE.\nWhat are the consequences? \nA, You are allowed to drive on. \nB, A breath analysis will be taken."
+  },
+  {
+    "id": "8857",
+    "qid": "9",
+    "qw": "1",
+    "q": "The blowing into a device that measures accurately the alcohol level in the exhaled alveolar air, is called &hellip; <br /><br />A. ... the breath test. <br />B. ... the breath analysis.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8857_9.jpg",
+    "clean_q": "The blowing into a device that measures accurately the alcohol level in the exhaled alveolar air, is called … \nA. ... the breath test. \nB. ... the breath analysis."
+  },
+  {
+    "id": "8880",
+    "qid": "32",
+    "qw": "1",
+    "q": "When you are drunk and driving, the reaction/thinking distance will be &hellip;<br /><br />A. ... longer.<br />B. ... shorter.<br />C. ... the same as when you&rsquo;re sober.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_8880_32.jpg",
+    "clean_q": "When you are drunk and driving, the reaction/thinking distance will be …\nA. ... longer.\nB. ... shorter.\nC. ... the same as when you’re sober."
+  },
+  {
+    "id": "10725",
+    "qid": "33",
+    "qw": "1",
+    "q": "The result of a saliva test is positive.<br />How many hours you can not drive?<br /><br />A. 6 hours.<br />B. 12 hours.<br />C. for 24 hours.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/alcohol-drugs_10725_33.jpg",
+    "clean_q": "The result of a saliva test is positive.\nHow many hours you can not drive?\nA. 6 hours.\nB. 12 hours.\nC. for 24 hours."
+  }
+]

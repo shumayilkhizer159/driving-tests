@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Belgian Driving Licence Dashboard</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Marked Markdown Parser CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- CSS Style -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <i class="fa-solid fa-car-side logo-icon"></i>
+                    <span>Driving Licence <span>BE</span></span>
+                </div>
+                <div class="subtitle">Theory & Practice Dashboard</div>
+                <button id="sidebar-mock-exam-btn" class="btn btn-mock-exam" style="width: 100%; margin-top: 16px;">
+                    <i class="fa-solid fa-crown"></i> Start Mock Exam
+                </button>
+                <button id="sidebar-view-questions-btn" class="btn btn-secondary" style="width: 100%; margin-top: 10px; justify-content: center;">
+                    <i class="fa-solid fa-list-check"></i> View All Questions
+                </button>
+            </div>
+            <nav class="lesson-nav">
+                <ul id="lesson-list">
+                    <!-- Loaded dynamically via app.js -->
+                    <li class="loading-item">Loading chapters...</li>
+                </ul>
+            </nav>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Top bar -->
+            <header class="top-bar">
+                <h1 id="active-lesson-title">Select a Lesson</h1>
+                <div class="top-bar-actions" style="display: flex; gap: 10px;">
+                    <button id="view-lesson-questions-btn" class="btn btn-secondary" style="display: none;">
+                        <i class="fa-solid fa-list-check"></i> Browse Questions
+                    </button>
+                    <button id="start-quiz-btn" class="btn btn-primary" style="display: none;">
+                        <i class="fa-solid fa-circle-question"></i> Practice Quiz
+                    </button>
+                </div>
+            </header>
+
+            <!-- Theory Reading Panel -->
+            <div id="theory-reader-panel" class="reader-container">
+                <div id="theory-content" class="theory-content markdown-body">
+                    <div class="welcome-screen">
+                        <i class="fa-solid fa-graduation-cap welcome-icon"></i>
+                        <h2>Welcome to Belgian Driving Theory</h2>
+                        <p>Select a chapter from the sidebar to start studying. Each chapter includes a comprehensive lesson followed by practice exam questions.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Questions Browser Panel -->
+            <div id="questions-browser-container" class="questions-browser-container hidden">
+                <div class="browser-header">
+                    <div class="browser-title-row">
+                        <h2>Mock Exam Questions Database</h2>
+                        <span id="browser-count-indicator" class="browser-count-indicator">Showing 0 of 0 questions</span>
+                    </div>
+                    <div class="browser-filter-row">
+                        <div class="search-wrapper">
+                            <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                            <input type="text" id="browser-search-input" placeholder="Search questions or explanations...">
+                        </div>
+                        <select id="browser-image-filter" class="browser-select">
+                            <option value="all">All Questions</option>
+                            <option value="with_image">With Image</option>
+                            <option value="without_image">No Image</option>
+                        </select>
+                    </div>
+                </div>
+                <div id="browser-questions-list" class="browser-questions-list">
+                    <!-- Injected dynamically -->
+                </div>
+                <div id="browser-pagination" class="browser-pagination">
+                    <!-- Injected dynamically -->
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Quiz Overlay (Modal) -->
+    <div id="quiz-modal" class="quiz-modal">
+        <div class="quiz-container">
+            <div class="quiz-header">
+                <div class="quiz-info">
+                    <span id="quiz-chapter-name">Lesson 1</span>
+                    <span class="divider">•</span>
+                    <span id="quiz-question-number">Question 1 of 40</span>
+                </div>
+                <button id="close-quiz-btn" class="close-btn"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            
+            <div class="quiz-body">
+                <!-- Progress Bar -->
+                <div class="progress-bar-container">
+                    <div id="quiz-progress" class="progress-bar" style="width: 0%;"></div>
+                </div>
+
+                <!-- Timer Bar -->
+                <div class="timer-container">
+                    <div class="timer-label"><i class="fa-regular fa-clock"></i> Time remaining: <span id="timer-sec">33</span>s</div>
+                    <div class="timer-bar-wrapper">
+                        <div id="quiz-timer-bar" class="timer-bar" style="width: 100%;"></div>
+                    </div>
+                </div>
+
+                <div class="quiz-layout">
+                    <!-- Question Image Area -->
+                    <div id="quiz-image-container" class="quiz-image-container">
+                        <!-- Img injected dynamically -->
+                    </div>
+
+                    <!-- Question Text & Options -->
+                    <div class="quiz-content">
+                        <div id="quiz-question-text" class="quiz-question-text">
+                            Question text goes here...
+                        </div>
+
+                        <!-- User Options Input Container -->
+                        <div id="quiz-options-container" class="quiz-options-container">
+                            <!-- Injected dynamically based on question type (A/B/C, Yes/No, number text) -->
+                        </div>
+
+                        <!-- Feedback Panel (Shown after answering) -->
+                        <div id="quiz-feedback-panel" class="quiz-feedback-panel hidden">
+                            <div class="feedback-status">
+                                <span id="feedback-badge" class="badge">Correct</span>
+                                <span id="correct-answer-indicator" class="correct-indicator">Correct = B</span>
+                            </div>
+                            <div id="quiz-explanation-text" class="quiz-explanation-text">
+                                Explanation goes here...
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Quiz Footer Controls -->
+            <div class="quiz-footer">
+                <div class="score-display">
+                    Score: <span id="quiz-score">0</span>
+                </div>
+                <button id="next-question-btn" class="btn btn-success hidden">
+                    Next <i class="fa-solid fa-arrow-right"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Quiz Results Screen Overlay -->
+    <div id="results-modal" class="results-modal">
+        <div class="results-container">
+            <div class="results-header">
+                <h2>Quiz Results</h2>
+                <button id="close-results-btn" class="close-btn"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="results-body">
+                <div class="results-summary">
+                    <div class="results-score-circle">
+                        <span id="results-score-text">35/40</span>
+                    </div>
+                    <h3 id="results-message">Excellent Work!</h3>
+                    <p id="results-submessage">You have completed the quiz. Review your answers below.</p>
+                </div>
+                
+                <h4>Questions Review</h4>
+                <div id="results-grid" class="results-grid">
+                    <!-- Injected dynamically, contains clickable red/green boxes -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Question Details Modal (when user clicks box in review grid) -->
+    <div id="details-modal" class="details-modal">
+        <div class="details-container">
+            <div class="details-header">
+                <h3 id="details-title">Question 1 Details</h3>
+                <button id="close-details-btn" class="close-btn"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="details-body">
+                <div class="quiz-layout">
+                    <div id="details-image-container" class="quiz-image-container"></div>
+                    <div class="quiz-content">
+                        <div id="details-question-text" class="quiz-question-text"></div>
+                        <div class="details-verdict-box">
+                            <div class="verdict-line">Your answer: <span id="details-user-answer" class="badge">A</span></div>
+                            <div class="verdict-line">Correct answer: <span id="details-correct-answer" class="badge badge-success">B</span></div>
+                        </div>
+                        <div class="details-explanation-title">Explanation:</div>
+                        <div id="details-explanation-text" class="quiz-explanation-text"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Browser Question Details Modal (when user clicks a question card in the browser list) -->
+    <div id="browser-details-modal" class="details-modal">
+        <div class="details-container">
+            <div class="details-header">
+                <h3 id="browser-details-title">Question Detail</h3>
+                <button id="close-browser-details-btn" class="close-btn"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="details-body">
+                <div class="quiz-layout">
+                    <div id="browser-details-image-container" class="quiz-image-container" style="width: 50%;"></div>
+                    <div class="quiz-content">
+                        <div id="browser-details-question-text" class="quiz-question-text" style="font-size: 20px;"></div>
+                        <div class="details-verdict-box" style="background-color: var(--success-bg); border-color: var(--success-border); padding: 12px 16px; margin-bottom: 20px;">
+                            <div class="verdict-line" style="font-weight: 700; color: var(--success); font-size: 16px; margin-bottom: 0;">
+                                Correct Answer: <span id="browser-details-correct-answer" class="badge badge-success" style="font-size: 14px; margin-left: 8px;">B</span>
+                            </div>
+                        </div>
+                        <div class="details-explanation-title">Explanation:</div>
+                        <div id="browser-details-explanation-text" class="quiz-explanation-text"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="quiz-footer" style="height: 70px; border-top: 1px solid var(--border-color); padding: 0 32px; display: flex; align-items: center; justify-content: space-between;">
+                <button id="browser-details-prev-btn" class="btn btn-secondary"><i class="fa-solid fa-arrow-left"></i> Previous</button>
+                <span id="browser-details-progress-text" style="font-weight: 600; color: var(--text-secondary);">Question 1 of 1580</span>
+                <button id="browser-details-next-btn" class="btn btn-primary">Next <i class="fa-solid fa-arrow-right"></i></button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main JavaScript App Code -->
+    <script src="app.js?v=1.1"></script>
+</body>
+</html>

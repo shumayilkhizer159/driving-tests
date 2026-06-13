@@ -1,0 +1,518 @@
+[
+  {
+    "id": "8550",
+    "qid": "33",
+    "qw": "1",
+    "q": "You drive your car on the right lane of this motorway. <br />What is the maximum speed limit?<br /><br />A. 50 kph.<br />B. 120 kph.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8550_33.jpg",
+    "clean_q": "You drive your car on the right lane of this motorway. \nWhat is the maximum speed limit?\nA. 50 kph.\nB. 120 kph."
+  },
+  {
+    "id": "8546",
+    "qid": "29",
+    "qw": "1",
+    "q": "Is the blue car allowed to drive on the bus lane to park on the verge?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8546_29.jpg",
+    "clean_q": "Is the blue car allowed to drive on the bus lane to park on the verge?"
+  },
+  {
+    "id": "20428",
+    "qid": "46",
+    "qw": "1",
+    "q": "The bell is not ringing.<br />When are you allowed to overtake a vehicle on this level crossing?<br /><br />A. Only if the barrier is open AND the white lunar light is lit at the same time.<br />B. If the barrier is open and the white lunar light is not lit, because it is defective.",
+    "s": "b",
+    "e": "LESSON 22<br />You may overtake a vehicle on the left at a level crossing when the barrier is fully open and the white lunar light is shining at the same time.<br />But if the bell is not ringing, the barrier is open, but the lights are defective, you may also overtake a vehicle on the left.",
+    "local_image_path": "images/train-tram-bus_20428_46.jpg",
+    "clean_q": "The bell is not ringing.\nWhen are you allowed to overtake a vehicle on this level crossing?\nA. Only if the barrier is open AND the white lunar light is lit at the same time.\nB. If the barrier is open and the white lunar light is not lit, because it is defective.",
+    "clean_e": "LESSON 22\nYou may overtake a vehicle on the left at a level crossing when the barrier is fully open and the white lunar light is shining at the same time.\nBut if the bell is not ringing, the barrier is open, but the lights are defective, you may also overtake a vehicle on the left."
+  },
+  {
+    "id": "19541",
+    "qid": "43",
+    "qw": "1",
+    "q": "You drive past this sign.<br />Are you allowed to overtake a motorcycle on the right here?",
+    "s": "yes",
+    "e": "The sign is placed 150 meters before the level crossing. You are driving on a regular roadway here.",
+    "local_image_path": "images/train-tram-bus_19541_43.jpg",
+    "clean_q": "You drive past this sign.\nAre you allowed to overtake a motorcycle on the right here?",
+    "clean_e": "The sign is placed 150 meters before the level crossing. You are driving on a regular roadway here."
+  },
+  {
+    "id": "10890",
+    "qid": "36",
+    "qw": "1",
+    "q": "Are you allowed to overtake a moped to the left at this level crossing?",
+    "s": "yes",
+    "e": "Yes, because there is a light.",
+    "local_image_path": "images/train-tram-bus_10890_36.jpg",
+    "clean_q": "Are you allowed to overtake a moped to the left at this level crossing?",
+    "clean_e": "Yes, because there is a light."
+  },
+  {
+    "id": "12633",
+    "qid": "41",
+    "qw": "1",
+    "q": "The tram comes from the left.<br />Should the car give way?",
+    "s": "yes",
+    "e": "LESSON 22 - &#039;Train Tram Bus&#039;.<br />A tram always has right of way.",
+    "local_image_path": "images/train-tram-bus_12633_41.jpg",
+    "clean_q": "The tram comes from the left.\nShould the car give way?",
+    "clean_e": "LESSON 22 - 'Train Tram Bus'.\nA tram always has right of way."
+  },
+  {
+    "id": "8541",
+    "qid": "24",
+    "qw": "1",
+    "q": "The train is gone and the barriers are going up.<br />If you leave now with your car &hellip; <br /><br />A. ... it is not a real offence. <br />B. ... it is a light offence.<br />C. ... your driving licence can be suspended immediately.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8541_24.jpg",
+    "clean_q": "The train is gone and the barriers are going up.\nIf you leave now with your car … \nA. ... it is not a real offence. \nB. ... it is a light offence.\nC. ... your driving licence can be suspended immediately."
+  },
+  {
+    "id": "8521",
+    "qid": "4",
+    "qw": "1",
+    "q": "You are not allowed to park on the road in front or past the sign of a bus stop within (&hellip;) meters.",
+    "s": "15",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8521_4.jpg",
+    "clean_q": "You are not allowed to park on the road in front or past the sign of a bus stop within (…) meters."
+  },
+  {
+    "id": "8539",
+    "qid": "22",
+    "qw": "1",
+    "q": "The red car didn&rsquo;t give priority to this leaving bus (public transport).<br />He must do it &hellip; <br /><br />A. ... always.<br />B. ... only within a built up area.<br />C. ... only outside a built up area.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8539_22.jpg",
+    "clean_q": "The red car didn’t give priority to this leaving bus (public transport).\nHe must do it … \nA. ... always.\nB. ... only within a built up area.\nC. ... only outside a built up area."
+  },
+  {
+    "id": "21828",
+    "qid": "50",
+    "qw": "1",
+    "q": "You approach this bus stop by car and you see that the bus has its hazard warning lights on.<br />Do you have to slow down and give way?<br /><br />A. Yes, only outside built-up areas.<br />B. Yes, only in built-up areas.<br />C. No.",
+    "s": "c",
+    "e": "LESSON  22  <br />You must give way when a bus wants to leave a bus stop in a built-up area.<br />In that case, the left indicator must be flashing, not the hazard warning lights.<br />When the hazard warning lights are on, this simply means that the bus is stopped to allow passengers to get on or off.",
+    "local_image_path": "images/train-tram-bus_21828_50.jpg",
+    "clean_q": "You approach this bus stop by car and you see that the bus has its hazard warning lights on.\nDo you have to slow down and give way?\nA. Yes, only outside built-up areas.\nB. Yes, only in built-up areas.\nC. No.",
+    "clean_e": "LESSON  22  \nYou must give way when a bus wants to leave a bus stop in a built-up area.\nIn that case, the left indicator must be flashing, not the hazard warning lights.\nWhen the hazard warning lights are on, this simply means that the bus is stopped to allow passengers to get on or off."
+  },
+  {
+    "id": "12360",
+    "qid": "38",
+    "qw": "1",
+    "q": "A level crossing with barriers and lights. But the lights are out.<br />Are you allowed to overtake a vehicle on the left?",
+    "s": "yes",
+    "e": "The lights are not working but there are open barriers.",
+    "local_image_path": "images/train-tram-bus_12360_38.jpg",
+    "clean_q": "A level crossing with barriers and lights. But the lights are out.\nAre you allowed to overtake a vehicle on the left?",
+    "clean_e": "The lights are not working but there are open barriers."
+  },
+  {
+    "id": "8525",
+    "qid": "8",
+    "qw": "1",
+    "q": "What does this sign mean? <br /><br />A. Level crossing.<br />B. Level crossing with barriers.<br />C. Level crossing without barriers.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8525_8.jpg",
+    "clean_q": "What does this sign mean? \nA. Level crossing.\nB. Level crossing with barriers.\nC. Level crossing without barriers."
+  },
+  {
+    "id": "8551",
+    "qid": "34",
+    "qw": "1",
+    "q": "You hear the warning bell sound, but the barriers are still completely open. <br /><br />A. You are allowed to drive through. <br />B. You must stop.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8551_34.jpg",
+    "clean_q": "You hear the warning bell sound, but the barriers are still completely open. \nA. You are allowed to drive through. \nB. You must stop."
+  },
+  {
+    "id": "21491",
+    "qid": "48",
+    "qw": "1",
+    "q": "Fill in a number:<br />The police allow you to drive on a special reserved route. <br />Which traffic signal has the same meaning as a green light?",
+    "s": "1",
+    "e": "LESSON 18 + 22<br />On a special overrun lane, the signals mean:<br />1️⃣ An inverted triangle &rarr; same meaning as a green light.<br />2️⃣ A circle &rarr; same meaning as a steady amber light.<br />3️⃣ A horizontal bar &rarr; same meaning as a red light.<br />4️⃣ A diagonal bar to the left &rarr; permission to drive only in that direction.",
+    "local_image_path": "images/train-tram-bus_21491_48.jpg",
+    "clean_q": "Fill in a number:\nThe police allow you to drive on a special reserved route. \nWhich traffic signal has the same meaning as a green light?",
+    "clean_e": "LESSON 18 + 22\nOn a special overrun lane, the signals mean:\n1️⃣ An inverted triangle → same meaning as a green light.\n2️⃣ A circle → same meaning as a steady amber light.\n3️⃣ A horizontal bar → same meaning as a red light.\n4️⃣ A diagonal bar to the left → permission to drive only in that direction."
+  },
+  {
+    "id": "8534",
+    "qid": "17",
+    "qw": "1",
+    "q": "Which traffic sign indicates this level crossing? <br /><br />A. Sign 1.<br />B. Sign 2.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8534_17.jpg",
+    "clean_q": "Which traffic sign indicates this level crossing? \nA. Sign 1.\nB. Sign 2."
+  },
+  {
+    "id": "19608",
+    "qid": "44",
+    "qw": "1",
+    "q": "Being stationary to pick up or drop off people is allowed...<br /><br />A. &hellip; only at a bus stop.<br />B. &hellip; only at a bus stop and on a bus lane.<br />C. &hellip; at a bus stop, on a bus lane, and on a special reserved route.",
+    "s": "a",
+    "e": "LESSON 22<br />You are only allowed to stop at a bus stop to let someone get in or out of the vehicle.",
+    "local_image_path": "images/train-tram-bus_19608_44.jpg",
+    "clean_q": "Being stationary to pick up or drop off people is allowed...\nA. … only at a bus stop.\nB. … only at a bus stop and on a bus lane.\nC. … at a bus stop, on a bus lane, and on a special reserved route.",
+    "clean_e": "LESSON 22\nYou are only allowed to stop at a bus stop to let someone get in or out of the vehicle."
+  },
+  {
+    "id": "8518",
+    "qid": "1",
+    "qw": "1",
+    "q": "Who has priority? <br /><br />A. The tram.<br />B. The car.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8518_1.jpg",
+    "clean_q": "Who has priority? \nA. The tram.\nB. The car."
+  },
+  {
+    "id": "8527",
+    "qid": "10",
+    "qw": "1",
+    "q": "What does this sign mean? <br /><br />A. Level crossing.<br />B. Level crossing with barriers.<br />C. Level crossing closed.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8527_10.jpg",
+    "clean_q": "What does this sign mean? \nA. Level crossing.\nB. Level crossing with barriers.\nC. Level crossing closed."
+  },
+  {
+    "id": "8526",
+    "qid": "9",
+    "qw": "1",
+    "q": "You are allowed to drive on the bus lane, to pass or overtake safely. <br /><br />A. Correct.<br />B. Incorrect.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8526_9.jpg",
+    "clean_q": "You are allowed to drive on the bus lane, to pass or overtake safely. \nA. Correct.\nB. Incorrect."
+  },
+  {
+    "id": "8536",
+    "qid": "19",
+    "qw": "1",
+    "q": "Within a built up area.<br />A tourist bus has stopped at a bus stop to let out some pensioners. <br />The driver wants to leave the bus stop and switches on his direction indicator. <br /><br />A. You have to give priority.<br />B. You don&rsquo;t have to give priority.",
+    "s": "b",
+    "e": "Not, because it is a tourist bus.",
+    "local_image_path": "images/train-tram-bus_8536_19.jpg",
+    "clean_q": "Within a built up area.\nA tourist bus has stopped at a bus stop to let out some pensioners. \nThe driver wants to leave the bus stop and switches on his direction indicator. \nA. You have to give priority.\nB. You don’t have to give priority.",
+    "clean_e": "Not, because it is a tourist bus."
+  },
+  {
+    "id": "8538",
+    "qid": "21",
+    "qw": "1",
+    "q": "Is this driver allowed to drive on the bus stop?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8538_21.jpg",
+    "clean_q": "Is this driver allowed to drive on the bus stop?"
+  },
+  {
+    "id": "17893",
+    "qid": "42",
+    "qw": "1",
+    "q": "The red light is already on, but the barrier is still open.<br />Are you allowed to drive further?<br /><br />A. Yes, but carefully.<br />B. No, you must stop.",
+    "s": "b",
+    "e": "Red light and bell sound means stop, even if the barrier is still open.",
+    "local_image_path": "images/train-tram-bus_17893_42.jpg",
+    "clean_q": "The red light is already on, but the barrier is still open.\nAre you allowed to drive further?\nA. Yes, but carefully.\nB. No, you must stop.",
+    "clean_e": "Red light and bell sound means stop, even if the barrier is still open."
+  },
+  {
+    "id": "8528",
+    "qid": "11",
+    "qw": "1",
+    "q": "This danger sign means: one or more tram tracks crossing the public road. <br />Must the tram driver take the traffic lights into account?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8528_11.jpg",
+    "clean_q": "This danger sign means: one or more tram tracks crossing the public road. \nMust the tram driver take the traffic lights into account?"
+  },
+  {
+    "id": "12359",
+    "qid": "37",
+    "qw": "1",
+    "q": "Standing still to let someone get out, is allowed on a bus stop.",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_12359_37.jpg",
+    "clean_q": "Standing still to let someone get out, is allowed on a bus stop."
+  },
+  {
+    "id": "8520",
+    "qid": "3",
+    "qw": "1",
+    "q": "Is it true that your driving licence can be suspended immediately when you drive past the red flashing lights on a level crossing?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8520_3.jpg",
+    "clean_q": "Is it true that your driving licence can be suspended immediately when you drive past the red flashing lights on a level crossing?"
+  },
+  {
+    "id": "8532",
+    "qid": "15",
+    "qw": "1",
+    "q": "Where do you have to drive 50kph? <br /><br />A. As soon as you pass these signs. <br />B. 100 meters past these signs.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8532_15.jpg",
+    "clean_q": "Where do you have to drive 50kph? \nA. As soon as you pass these signs. \nB. 100 meters past these signs."
+  },
+  {
+    "id": "8530",
+    "qid": "13",
+    "qw": "1",
+    "q": "Are you allowed to wait a while for your friend, with your car on the bus stop?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8530_13.jpg",
+    "clean_q": "Are you allowed to wait a while for your friend, with your car on the bus stop?"
+  },
+  {
+    "id": "8549",
+    "qid": "32",
+    "qw": "1",
+    "q": "This driver wants to turn right at the junction. <br /><br />A. The car must be on this lane. <br />B. The car is allowed on the lane to the right of him.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8549_32.jpg",
+    "clean_q": "This driver wants to turn right at the junction. \nA. The car must be on this lane. \nB. The car is allowed on the lane to the right of him."
+  },
+  {
+    "id": "8523",
+    "qid": "6",
+    "qw": "1",
+    "q": "On the bus lane you are not allowed to drive.<br /><br />A. Correct.<br />B. Incorrect.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8523_6.jpg",
+    "clean_q": "On the bus lane you are not allowed to drive.\nA. Correct.\nB. Incorrect."
+  },
+  {
+    "id": "8537",
+    "qid": "20",
+    "qw": "1",
+    "q": "What kind of traffic sign is this? <br /><br />A. A danger sign.<br />B. An information sign.<br />C. A sign concerning rail vehicles.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8537_20.jpg",
+    "clean_q": "What kind of traffic sign is this? \nA. A danger sign.\nB. An information sign.\nC. A sign concerning rail vehicles."
+  },
+  {
+    "id": "12361",
+    "qid": "39",
+    "qw": "1",
+    "q": "What do you do when a bus stops at this stop?<br /><br />A. Stop and wait until the bus leaves again.<br />B. You can drive on carefully.",
+    "s": "b",
+    "e": "You don&#039;t have to stop, but you can drive on carefully.",
+    "local_image_path": "images/train-tram-bus_12361_39.jpg",
+    "clean_q": "What do you do when a bus stops at this stop?\nA. Stop and wait until the bus leaves again.\nB. You can drive on carefully.",
+    "clean_e": "You don't have to stop, but you can drive on carefully."
+  },
+  {
+    "id": "19643",
+    "qid": "45",
+    "qw": "1",
+    "q": "Outside a built-up area, must you give way to a bus leaving a bus stop?",
+    "s": "no",
+    "e": "LESSON 22<br />You must give way inside a built-up area. You must never give way to a coach leaving a bus stop.",
+    "local_image_path": "images/train-tram-bus_19643_45.jpg",
+    "clean_q": "Outside a built-up area, must you give way to a bus leaving a bus stop?",
+    "clean_e": "LESSON 22\nYou must give way inside a built-up area. You must never give way to a coach leaving a bus stop."
+  },
+  {
+    "id": "8547",
+    "qid": "30",
+    "qw": "1",
+    "q": "Is the blue car allowed to drive on the bus reserved route next to him to park on the verge?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8547_30.jpg",
+    "clean_q": "Is the blue car allowed to drive on the bus reserved route next to him to park on the verge?"
+  },
+  {
+    "id": "8529",
+    "qid": "12",
+    "qw": "1",
+    "q": "What is this road marking called? <br /><br />A. A checkerboard (pattern) marking.<br />B. A traffic displacement area.<br />C. A mosaic marking.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8529_12.jpg",
+    "clean_q": "What is this road marking called? \nA. A checkerboard (pattern) marking.\nB. A traffic displacement area.\nC. A mosaic marking."
+  },
+  {
+    "id": "8540",
+    "qid": "23",
+    "qw": "1",
+    "q": "Are you allowed to cross this bus lane with a car in order to enter your property?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8540_23.jpg",
+    "clean_q": "Are you allowed to cross this bus lane with a car in order to enter your property?"
+  },
+  {
+    "id": "8535",
+    "qid": "18",
+    "qw": "1",
+    "q": "In what order are these drivers allowed to cross the junction? <br /><br />A. Tram &ndash; red car &ndash; blue car.<br />B. Red car - tram &ndash; blue car.<br />C. Tram &ndash; blue car &ndash; red car.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8535_18.jpg",
+    "clean_q": "In what order are these drivers allowed to cross the junction? \nA. Tram – red car – blue car.\nB. Red car - tram – blue car.\nC. Tram – blue car – red car."
+  },
+  {
+    "id": "8533",
+    "qid": "16",
+    "qw": "1",
+    "q": "What must a tram driver take into account? <br /><br />1. The orders of an authorized person. <br />2. The traffic lights.<br />3. The priority rules.<br /><br />A. Only 1.<br />B. Only 1 and 2.<br />C. 1, 2, and 3.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8533_16.jpg",
+    "clean_q": "What must a tram driver take into account? \n1. The orders of an authorized person. \n2. The traffic lights.\n3. The priority rules.\nA. Only 1.\nB. Only 1 and 2.\nC. 1, 2, and 3."
+  },
+  {
+    "id": "8531",
+    "qid": "14",
+    "qw": "1",
+    "q": "What does this sign mean? <br /><br />A. Single line level crossing. <br />B. Level crossing with barriers and lights. <br />C. Level crossing without lights.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8531_14.jpg",
+    "clean_q": "What does this sign mean? \nA. Single line level crossing. \nB. Level crossing with barriers and lights. \nC. Level crossing without lights."
+  },
+  {
+    "id": "10889",
+    "qid": "35",
+    "qw": "1",
+    "q": "Are you allowed to turn around on a checkerboard marker at an intersection?",
+    "s": "yes",
+    "e": "LESSON 22",
+    "local_image_path": "images/train-tram-bus_10889_35.jpg",
+    "clean_q": "Are you allowed to turn around on a checkerboard marker at an intersection?",
+    "clean_e": "LESSON 22"
+  },
+  {
+    "id": "21494",
+    "qid": "49",
+    "qw": "1",
+    "q": "Fill in a number:<br />The police allow you to drive on a special reserved route.<br />Which traffic signal has the same meaning as a red light?",
+    "s": "3",
+    "e": "LESSON 18 + 22<br />On a special overrun lane, the signals mean:<br />1️⃣ An inverted triangle &rarr; same meaning as a green light.<br />2️⃣ A circle &rarr; same meaning as a steady amber light.<br />3️⃣ A horizontal bar &rarr; same meaning as a red light.<br />4️⃣ A diagonal bar to the left &rarr; permission to drive only in that direction.",
+    "local_image_path": "images/train-tram-bus_21494_49.jpg",
+    "clean_q": "Fill in a number:\nThe police allow you to drive on a special reserved route.\nWhich traffic signal has the same meaning as a red light?",
+    "clean_e": "LESSON 18 + 22\nOn a special overrun lane, the signals mean:\n1️⃣ An inverted triangle → same meaning as a green light.\n2️⃣ A circle → same meaning as a steady amber light.\n3️⃣ A horizontal bar → same meaning as a red light.\n4️⃣ A diagonal bar to the left → permission to drive only in that direction."
+  },
+  {
+    "id": "8548",
+    "qid": "31",
+    "qw": "1",
+    "q": "Which of these signs indicates a bus lane? <br /><br />A. Only sign 1.<br />B. Only sign 1 and 2.<br />C. Sign 1, 2 and 3.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8548_31.jpg",
+    "clean_q": "Which of these signs indicates a bus lane? \nA. Only sign 1.\nB. Only sign 1 and 2.\nC. Sign 1, 2 and 3."
+  },
+  {
+    "id": "8544",
+    "qid": "27",
+    "qw": "1",
+    "q": "Is the blue car allowed to drive on the bus reserved route to the right of him to change direction, the last meters before the junction?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8544_27.jpg",
+    "clean_q": "Is the blue car allowed to drive on the bus reserved route to the right of him to change direction, the last meters before the junction?"
+  },
+  {
+    "id": "8522",
+    "qid": "5",
+    "qw": "1",
+    "q": "What does this traffic sign indicate? <br /><br />A. Level crossing without barriers. <br />B. Level crossing with two or more tracks. <br />C. Train track crossing the road.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8522_5.jpg",
+    "clean_q": "What does this traffic sign indicate? \nA. Level crossing without barriers. \nB. Level crossing with two or more tracks. \nC. Train track crossing the road."
+  },
+  {
+    "id": "8543",
+    "qid": "26",
+    "qw": "1",
+    "q": "The picture is taken from the car you drive in. <br />You want to refuel. Are you allowed to use the bus reserved route to the right of you from here on?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8543_26.jpg",
+    "clean_q": "The picture is taken from the car you drive in. \nYou want to refuel. Are you allowed to use the bus reserved route to the right of you from here on?"
+  },
+  {
+    "id": "8542",
+    "qid": "25",
+    "qw": "1",
+    "q": "This picture is taken from the car you drive in. <br />You want to turn right at the junction. <br /><br />A. You are allowed to drive on the bus lane when you intend to change direction at the next junction. <br />B. You have to use this lane to change direction.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8542_25.jpg",
+    "clean_q": "This picture is taken from the car you drive in. \nYou want to turn right at the junction. \nA. You are allowed to drive on the bus lane when you intend to change direction at the next junction. \nB. You have to use this lane to change direction."
+  },
+  {
+    "id": "8519",
+    "qid": "2",
+    "qw": "1",
+    "q": "Are mopeds here also allowed on the special tram or bus routes?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8519_2.jpg",
+    "clean_q": "Are mopeds here also allowed on the special tram or bus routes?"
+  },
+  {
+    "id": "21484",
+    "qid": "47",
+    "qw": "1",
+    "q": "The driver of this bus has switched on the left indicator and wants to leave the bus stop, outside a built-up area.<br />Must you give way?<br /><br />A. Yes.<br />B. No.",
+    "s": "b",
+    "e": "LESSON 22 &ndash; Explanation:<br />Within a built-up area, you must give way to a bus leaving a bus stop when its indicator is on.<br />⚠️ This rule does not apply to:<br />&bull; coaches,<br />&bull; buses used for school transport or employee transport.",
+    "local_image_path": "images/train-tram-bus_21484_47.jpg",
+    "clean_q": "The driver of this bus has switched on the left indicator and wants to leave the bus stop, outside a built-up area.\nMust you give way?\nA. Yes.\nB. No.",
+    "clean_e": "LESSON 22 – Explanation:\nWithin a built-up area, you must give way to a bus leaving a bus stop when its indicator is on.\n⚠️ This rule does not apply to:\n• coaches,\n• buses used for school transport or employee transport."
+  },
+  {
+    "id": "12444",
+    "qid": "40",
+    "qw": "5",
+    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Can you overtake a moped on the left at this level crossing?<br /><br />A. No, overtaking on the left is forbidden,<br />B. No, only a cyclist.<br />C. Yes.",
+    "s": "c",
+    "e": "LESSON 22 - &#039;Train, tram, bus&#039;.<br />There are barriers and the white light is on.",
+    "local_image_path": "images/train-tram-bus_12444_40.jpg",
+    "clean_q": "*** 5 points question ***\nCan you overtake a moped on the left at this level crossing?\nA. No, overtaking on the left is forbidden,\nB. No, only a cyclist.\nC. Yes.",
+    "clean_e": "LESSON 22 - 'Train, tram, bus'.\nThere are barriers and the white light is on."
+  },
+  {
+    "id": "8524",
+    "qid": "7",
+    "qw": "1",
+    "q": "The bus wants to leave the bus stop in a built up area. <br /><br />A. The car has priority.<br />B. The bus has priority.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8524_7.jpg",
+    "clean_q": "The bus wants to leave the bus stop in a built up area. \nA. The car has priority.\nB. The bus has priority."
+  },
+  {
+    "id": "8545",
+    "qid": "28",
+    "qw": "1",
+    "q": "Is the blue car allowed to drive on the lane to the right of him to change direction?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/train-tram-bus_8545_28.jpg",
+    "clean_q": "Is the blue car allowed to drive on the lane to the right of him to change direction?"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "9014",
+    "qid": "13",
+    "qw": "1",
+    "q": "You drive 80 km/hour in 4th instead of 5th gear.<br />The fuel consumption is &hellip;<br /><br />A. ... higher.<br />B. ... lower.<br />C. ... the same.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/energy-use_9014_13.jpg",
+    "clean_q": "You drive 80 km/hour in 4th instead of 5th gear.\nThe fuel consumption is …\nA. ... higher.\nB. ... lower.\nC. ... the same."
+  },
+  {
+    "id": "9007",
+    "qid": "6",
+    "qw": "1",
+    "q": "When you have to stop in front of a drawbridge, it is best to switch off the engine. <br /><br />A. Correct.<br />B. Incorrect.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/energy-use_9007_6.jpg",
+    "clean_q": "When you have to stop in front of a drawbridge, it is best to switch off the engine. \nA. Correct.\nB. Incorrect."
+  },
+  {
+    "id": "17847",
+    "qid": "24",
+    "qw": "1",
+    "q": "What does E5 refer to?<br /><br />A. The octane content of the petrol.<br />B. The added bio-ethanol.",
+    "s": "b",
+    "e": "Since 2019, fuel is primarily designated by a name that indicates the maximum amount of bioethanol mixed in. Bioethanol is an alcohol made by fermenting sugar, corn or wheat. This is therefore a form of renewable energy.",
+    "local_image_path": "images/energy-use_17847_24.jpg",
+    "clean_q": "What does E5 refer to?\nA. The octane content of the petrol.\nB. The added bio-ethanol.",
+    "clean_e": "Since 2019, fuel is primarily designated by a name that indicates the maximum amount of bioethanol mixed in. Bioethanol is an alcohol made by fermenting sugar, corn or wheat. This is therefore a form of renewable energy."
+  },
+  {
+    "id": "11074",
+    "qid": "18",
+    "qw": "1",
+    "q": "Which fuel is the MOST polluting or least environmentally friendly?<br /><br />A. White diesel.<br />B. Red diesel.<br />C. Low sulfur diesel.",
+    "s": "b",
+    "e": "LESSON 30 &ndash; &lsquo;Environment&rsquo;.  <br />Red diesel contains 200 times more particles sulfur than white diesel.<br />Red diesel you may not use for a car.<br />Low sulfur diesel is environmentally friendly.",
+    "local_image_path": "images/energy-use_11074_18.jpg",
+    "clean_q": "Which fuel is the MOST polluting or least environmentally friendly?\nA. White diesel.\nB. Red diesel.\nC. Low sulfur diesel.",
+    "clean_e": "LESSON 30 – ‘Environment’.  \nRed diesel contains 200 times more particles sulfur than white diesel.\nRed diesel you may not use for a car.\nLow sulfur diesel is environmentally friendly."
+  },
+  {
+    "id": "9008",
+    "qid": "7",
+    "qw": "1",
+    "q": "Are you allowed to re-cut badly worn tyres of a car? <br /><br />A. Yes, maximum once.<br />B. Yes, when the tread depth can be made deeper than 1.6 mm.<br />C. No.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/energy-use_9008_7.jpg",
+    "clean_q": "Are you allowed to re-cut badly worn tyres of a car? \nA. Yes, maximum once.\nB. Yes, when the tread depth can be made deeper than 1.6 mm.\nC. No."
+  },
+  {
+    "id": "9002",
+    "qid": "1",
+    "qw": "1",
+    "q": "You return from your holiday.<br />What do you remove from the rooftop? <br /><br />A. Only the ski box.<br />B. The ski box and the roof rack.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/energy-use_9002_1.jpg",
+    "clean_q": "You return from your holiday.\nWhat do you remove from the rooftop? \nA. Only the ski box.\nB. The ski box and the roof rack."
+  },
+  {
+    "id": "9010",
+    "qid": "9",
+    "qw": "1",
+    "q": "When is a car the most environmentally friendly?<br /><br />A. With a high eco-score.<br />B. With a low eco-score.",
+    "s": "a",
+    "e": "LESSON 30 &ndash; &ldquo;Environment&rdquo;.<br />Eco-score is expressed with a number between 1 and 100.<br />The higher, the more environmentally friendly.",
+    "local_image_path": "images/energy-use_9010_9.jpg",
+    "clean_q": "When is a car the most environmentally friendly?\nA. With a high eco-score.\nB. With a low eco-score.",
+    "clean_e": "LESSON 30 – “Environment”.\nEco-score is expressed with a number between 1 and 100.\nThe higher, the more environmentally friendly."
+  },
+  {
+    "id": "9013",
+    "qid": "12",
+    "qw": "1",
+    "q": "The air conditioning is on in the car. <br />The result is &hellip; <br /><br />A. ... more fuel consumption.<br />B. ... less fuel consumption.<br />C. ... no influence on the fuel consumption.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/energy-use_9013_12.jpg",
+    "clean_q": "The air conditioning is on in the car. \nThe result is … \nA. ... more fuel consumption.\nB. ... less fuel consumption.\nC. ... no influence on the fuel consumption."
+  },
+  {
+    "id": "11073",
+    "qid": "17",
+    "qw": "1",
+    "q": "You wait for a level crossing with your car motor in freewheel mode.<br />Can you repeatedly give some gas?<br /><br />A. No.<br />B. Yes.<br />C. Yes, only in the winter to keep warm the engine.",
+    "s": "a",
+    "e": "LESSON 30 &ndash; &lsquo;Environment&rsquo;.  <br />For example, if you wait for a red light with a motor in freewheel mode, repetitive gas (brum brum ... ... broeoemm ...) is not allowed. Not even in the winter to keep warm the engine.",
+    "local_image_path": "images/energy-use_11073_17.jpg",
+    "clean_q": "You wait for a level crossing with your car motor in freewheel mode.\nCan you repeatedly give some gas?\nA. No.\nB. Yes.\nC. Yes, only in the winter to keep warm the engine.",
+    "clean_e": "LESSON 30 – ‘Environment’.  \nFor example, if you wait for a red light with a motor in freewheel mode, repetitive gas (brum brum ... ... broeoemm ...) is not allowed. Not even in the winter to keep warm the engine."
+  },
+  {
+    "id": "12739",
+    "qid": "23",
+    "qw": "1",
+    "q": "This sign means: charging place for electric cars on the left and right.",
+    "s": "yes",
+    "e": "LESSON 30",
+    "local_image_path": "images/energy-use_12739_23.jpg",
+    "clean_q": "This sign means: charging place for electric cars on the left and right.",
+    "clean_e": "LESSON 30"
+  },
+  {
+    "id": "9006",
+    "qid": "5",
+    "qw": "1",
+    "q": "You drive with a diesel.<br />What is the recommended speed (revs) to change gear? <br /><br />A. 2000 revs.<br />B. 2500 revs.<br />C. 3000 revs.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/energy-use_9006_5.jpg",
+    "clean_q": "You drive with a diesel.\nWhat is the recommended speed (revs) to change gear? \nA. 2000 revs.\nB. 2500 revs.\nC. 3000 revs."
+  },
+  {
+    "id": "11075",
+    "qid": "19",
+    "qw": "1",
+    "q": "What is &lsquo;Autodelen&rsquo; (Dutch) or &lsquo;Voitures partag&eacute;es&rsquo; (French)?<br /><br />A. With multiple people use the car at the same time to reach a destination.<br />B. Occasional use of a car in advance captured moments via reservation.",
+    "s": "b",
+    "e": "LESSON 30 &ndash; &lsquo;Environment&rsquo;.  <br />Who shares a car with several people, make use of a car at a different time. You use the car when you need the car. If you don&rsquo;t need the car, someone else can drive.",
+    "local_image_path": "images/energy-use_11075_19.jpg",
+    "clean_q": "What is ‘Autodelen’ (Dutch) or ‘Voitures partagées’ (French)?\nA. With multiple people use the car at the same time to reach a destination.\nB. Occasional use of a car in advance captured moments via reservation.",
+    "clean_e": "LESSON 30 – ‘Environment’.  \nWho shares a car with several people, make use of a car at a different time. You use the car when you need the car. If you don’t need the car, someone else can drive."
+  },
+  {
+    "id": "20536",
+    "qid": "25",
+    "qw": "1",
+    "q": "Is driving at too high an engine speed also harmful to the environment?<br /><br />A. No.<br />B. Yes.",
+    "s": "b",
+    "e": "LESSON 30<br />When you let your engine run unnecessarily at high revs, it consumes more fuel and emits more CO₂ and nitrogen oxides. This is harmful to the environment and increases engine wear, leading to higher maintenance costs.",
+    "local_image_path": "images/energy-use_20536_25.jpg",
+    "clean_q": "Is driving at too high an engine speed also harmful to the environment?\nA. No.\nB. Yes.",
+    "clean_e": "LESSON 30\nWhen you let your engine run unnecessarily at high revs, it consumes more fuel and emits more CO₂ and nitrogen oxides. This is harmful to the environment and increases engine wear, leading to higher maintenance costs."
+  },
+  {
+    "id": "9011",
+    "qid": "10",
+    "qw": "1",
+    "q": "A dirty air filter in the engine &hellip; <br /><br />A. ... increases the fuel consumption.<br />B. ... has no influence on the fuel consumption.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/energy-use_9011_10.jpg",
+    "clean_q": "A dirty air filter in the engine … \nA. ... increases the fuel consumption.\nB. ... has no influence on the fuel consumption."
+  },
+  {
+    "id": "10896",
+    "qid": "16",
+    "qw": "1",
+    "q": "The catalytic converter in a car &hellip; <br /><br />A. ... purifies the exhaust fumes. <br />B. ... is the reason for less fuel consumption.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/energy-use_10896_16.jpg",
+    "clean_q": "The catalytic converter in a car … \nA. ... purifies the exhaust fumes. \nB. ... is the reason for less fuel consumption."
+  },
+  {
+    "id": "21393",
+    "qid": "26",
+    "qw": "1",
+    "q": "When must you take this sign into account?<br /><br />A. Only on weekdays, 24 hours a day.<br />B. Only on weekdays, including Saturday, from 06:00 to 20:00.<br />C. Every day of the week, 24 hours a day.",
+    "s": "c",
+    "e": "LESSON 30<br />These signs indicate the start and end of a low-emission zone (LEZ).<br />A low-emission zone is a defined area where certain vehicles are not allowed because they emit too many harmful substances.<br />A LEZ applies every day of the week, 24 hours a day, unless stated otherwise.<br />Each city or municipality can decide where a LEZ is introduced.",
+    "local_image_path": "images/energy-use_21393_26.jpg",
+    "clean_q": "When must you take this sign into account?\nA. Only on weekdays, 24 hours a day.\nB. Only on weekdays, including Saturday, from 06:00 to 20:00.\nC. Every day of the week, 24 hours a day.",
+    "clean_e": "LESSON 30\nThese signs indicate the start and end of a low-emission zone (LEZ).\nA low-emission zone is a defined area where certain vehicles are not allowed because they emit too many harmful substances.\nA LEZ applies every day of the week, 24 hours a day, unless stated otherwise.\nEach city or municipality can decide where a LEZ is introduced."
+  },
+  {
+    "id": "12545",
+    "qid": "21",
+    "qw": "1",
+    "q": "Where can I find the Euro standard (Euronorm / La norme Euro) of my car?<br /><br />A. On the green vehicle inspection card.<br />B. On the registration certificate.<br />C. On the insurance document.",
+    "s": "b",
+    "e": "LESSON 30",
+    "local_image_path": "images/energy-use_12545_21.jpg",
+    "clean_q": "Where can I find the Euro standard (Euronorm / La norme Euro) of my car?\nA. On the green vehicle inspection card.\nB. On the registration certificate.\nC. On the insurance document.",
+    "clean_e": "LESSON 30"
+  },
+  {
+    "id": "9009",
+    "qid": "8",
+    "qw": "1",
+    "q": "Exhaust fumes in contact with the sunlight will lead to &hellip; <br /><br />A. ... benzene.<br />B. ... nitrogen.<br />C. ... ozone.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/energy-use_9009_8.jpg",
+    "clean_q": "Exhaust fumes in contact with the sunlight will lead to … \nA. ... benzene.\nB. ... nitrogen.\nC. ... ozone."
+  },
+  {
+    "id": "9015",
+    "qid": "14",
+    "qw": "1",
+    "q": "The fuel of your car is petrol.<br />What is the recommended speed (revs) to change gear? <br /><br />A. 2000 revs.<br />B. 2500 revs.<br />C. 3000 revs.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/energy-use_9015_14.jpg",
+    "clean_q": "The fuel of your car is petrol.\nWhat is the recommended speed (revs) to change gear? \nA. 2000 revs.\nB. 2500 revs.\nC. 3000 revs."
+  },
+  {
+    "id": "12670",
+    "qid": "22",
+    "qw": "1",
+    "q": "If you have a very environmentally friendly car, are you above or below the Euro standard?<br /><br />A. Above.<br />B. Below.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/energy-use_12670_22.jpg",
+    "clean_q": "If you have a very environmentally friendly car, are you above or below the Euro standard?\nA. Above.\nB. Below."
+  },
+  {
+    "id": "9003",
+    "qid": "2",
+    "qw": "1",
+    "q": "You have to transport bicycles. <br />You place them &hellip; <br /><br />A. ... at the back of the car.<br />B. ... on the roof of the car.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/energy-use_9003_2.jpg",
+    "clean_q": "You have to transport bicycles. \nYou place them … \nA. ... at the back of the car.\nB. ... on the roof of the car."
+  },
+  {
+    "id": "9004",
+    "qid": "3",
+    "qw": "1",
+    "q": "What is the most environmentally friendly fuel? <br /><br />A. Petrol.<br />B. Diesel.<br />C. Gas.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/energy-use_9004_3.jpg",
+    "clean_q": "What is the most environmentally friendly fuel? \nA. Petrol.\nB. Diesel.\nC. Gas."
+  },
+  {
+    "id": "9016",
+    "qid": "15",
+    "qw": "1",
+    "q": "Which diesel is the most environmentally friendly?<br /><br />A. White diesel.<br />B. Red diesel.<br />C. Diesel with a less sulfur level.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/energy-use_9016_15.jpg",
+    "clean_q": "Which diesel is the most environmentally friendly?\nA. White diesel.\nB. Red diesel.\nC. Diesel with a less sulfur level."
+  },
+  {
+    "id": "9005",
+    "qid": "4",
+    "qw": "1",
+    "q": "Driving with open windows consumes less fuel than with closed windows. <br /><br />A. Correct.<br />B. Incorrect.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/energy-use_9005_4.jpg",
+    "clean_q": "Driving with open windows consumes less fuel than with closed windows. \nA. Correct.\nB. Incorrect."
+  },
+  {
+    "id": "9012",
+    "qid": "11",
+    "qw": "1",
+    "q": "When you drive too long in a too low gear &hellip; <br /><br />A. ... it has no influence on the fuel consumption.<br />B. ... it ensures less fuel consumption.<br />C. ... it ensures a higher fuel consumption.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/energy-use_9012_11.jpg",
+    "clean_q": "When you drive too long in a too low gear … \nA. ... it has no influence on the fuel consumption.\nB. ... it ensures less fuel consumption.\nC. ... it ensures a higher fuel consumption."
+  },
+  {
+    "id": "11076",
+    "qid": "20",
+    "qw": "1",
+    "q": "This sign means ...<br /><br />A. Start of a low emission zone.<br />B. Zone where diesels are banned.<br />C. Zone where a catalyst is mandatory in the car.",
+    "s": "a",
+    "e": "LES 30 &ndash; &lsquo;Environment&rsquo;.<br />Road authorities have the ability to ban polluting vehicles from certain areas, with a view to improving air quality.",
+    "local_image_path": "images/energy-use_11076_20.jpg",
+    "clean_q": "This sign means ...\nA. Start of a low emission zone.\nB. Zone where diesels are banned.\nC. Zone where a catalyst is mandatory in the car.",
+    "clean_e": "LES 30 – ‘Environment’.\nRoad authorities have the ability to ban polluting vehicles from certain areas, with a view to improving air quality."
+  }
+]
