@@ -1,0 +1,527 @@
+[
+  {
+    "id": "21030",
+    "qid": "50",
+    "qw": "1",
+    "q": "A cyclist has been hit at an intersection and is lying unconscious on the ground.<br />Are you allowed to clear the intersection and carefully carry the cyclist to the side of the road?<br /><br />A. Yes, you must clear the intersection.<br />B. No, an injured person must remain where they are.",
+    "s": "b",
+    "e": "LESSON 29<br />In an accident with injured persons, you leave the injured where they are and call the emergency services.<br />If there are injured persons, the police must also come to make the official report.",
+    "local_image_path": "images/accidents-and-casualties_21030_50.jpg",
+    "clean_q": "A cyclist has been hit at an intersection and is lying unconscious on the ground.\nAre you allowed to clear the intersection and carefully carry the cyclist to the side of the road?\nA. Yes, you must clear the intersection.\nB. No, an injured person must remain where they are.",
+    "clean_e": "LESSON 29\nIn an accident with injured persons, you leave the injured where they are and call the emergency services.\nIf there are injured persons, the police must also come to make the official report."
+  },
+  {
+    "id": "12349",
+    "qid": "40",
+    "qw": "1",
+    "q": "You have driven against a tank car at the back. <br />There are no injuries, but a chemical substance leaks from the tank car. What do you do?<br /><br />A. Completing a European collision form is sufficient.<br />B. Call the number 112.",
+    "s": "b",
+    "e": "LESSON 29 - &#039;Accident&#039;.<br />Although there are no injuries, call 112, because chemicals can be very dangerous.",
+    "local_image_path": "images/accidents-and-casualties_12349_40.jpg",
+    "clean_q": "You have driven against a tank car at the back. \nThere are no injuries, but a chemical substance leaks from the tank car. What do you do?\nA. Completing a European collision form is sufficient.\nB. Call the number 112.",
+    "clean_e": "LESSON 29 - 'Accident'.\nAlthough there are no injuries, call 112, because chemicals can be very dangerous."
+  },
+  {
+    "id": "8897",
+    "qid": "17",
+    "qw": "1",
+    "q": "At home you notice that you forgot to draw something important on the situational sketch. <br /><br />A. You are still allowed to draw extra. <br />B. You are not allowed to change anything on the form.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8897_17.jpg",
+    "clean_q": "At home you notice that you forgot to draw something important on the situational sketch. \nA. You are still allowed to draw extra. \nB. You are not allowed to change anything on the form."
+  },
+  {
+    "id": "10893",
+    "qid": "35",
+    "qw": "1",
+    "q": "What do you do first at an accident? <br /><br />A. Secure yourself. <br />B. Call the emergency services. <br />C. Fill in the European Accident Form.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_10893_35.jpg",
+    "clean_q": "What do you do first at an accident? \nA. Secure yourself. \nB. Call the emergency services. \nC. Fill in the European Accident Form."
+  },
+  {
+    "id": "8895",
+    "qid": "15",
+    "qw": "1",
+    "q": "In an accident a driver hit his head against the front wind shield and is now unconscious. <br /><br />A. You carefully get him out of the car. <br />B. You have to leave him in the car.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8895_15.jpg",
+    "clean_q": "In an accident a driver hit his head against the front wind shield and is now unconscious. \nA. You carefully get him out of the car. \nB. You have to leave him in the car."
+  },
+  {
+    "id": "8882",
+    "qid": "2",
+    "qw": "1",
+    "q": "Is a first aid kit obligatory in the car?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8882_2.jpg",
+    "clean_q": "Is a first aid kit obligatory in the car?"
+  },
+  {
+    "id": "21603",
+    "qid": "51",
+    "qw": "1",
+    "q": "You find someone unconscious in a car.<br />You have switched off the engine, turned on the hazard warning lights and placed the warning triangle.<br />What should you do next?<br /><br />A. Carefully remove the person from the vehicle.<br />B. Check the breathing and start resuscitation if necessary.<br />C. Call 112.",
+    "s": "c",
+    "e": "LESSON 29<br />- First ensure your own safety and that of others.<br />- Check the person and call 112 immediately if there is no response.<br />- Check breathing:<br />.. Look to see if the chest rises and falls.<br />.. Listen at the mouth and nose for breathing sounds.<br />- Is the person breathing?<br />.. Keep the airway open (tilt the chin upwards).<br />.. Continue to monitor breathing until emergency services arrive.<br />- Is the person not breathing or not breathing normally?<br />..Start resuscitation immediately (chest compressions and, if possible, rescue breaths).",
+    "local_image_path": "images/accidents-and-casualties_21603_51.jpg",
+    "clean_q": "You find someone unconscious in a car.\nYou have switched off the engine, turned on the hazard warning lights and placed the warning triangle.\nWhat should you do next?\nA. Carefully remove the person from the vehicle.\nB. Check the breathing and start resuscitation if necessary.\nC. Call 112.",
+    "clean_e": "LESSON 29\n- First ensure your own safety and that of others.\n- Check the person and call 112 immediately if there is no response.\n- Check breathing:\n.. Look to see if the chest rises and falls.\n.. Listen at the mouth and nose for breathing sounds.\n- Is the person breathing?\n.. Keep the airway open (tilt the chin upwards).\n.. Continue to monitor breathing until emergency services arrive.\n- Is the person not breathing or not breathing normally?\n..Start resuscitation immediately (chest compressions and, if possible, rescue breaths)."
+  },
+  {
+    "id": "12749",
+    "qid": "44",
+    "qw": "1",
+    "q": "An accident with an injured person.<br /><br />A. If possible, move the car to clear the lane.<br />B. You leave the car on the spot.",
+    "s": "b",
+    "e": "LESSON 29 - &#039;Accident&#039;.<br />If there are injuries, the vehicles will remain in place and the police must come.",
+    "local_image_path": "images/accidents-and-casualties_12749_44.jpg",
+    "clean_q": "An accident with an injured person.\nA. If possible, move the car to clear the lane.\nB. You leave the car on the spot.",
+    "clean_e": "LESSON 29 - 'Accident'.\nIf there are injuries, the vehicles will remain in place and the police must come."
+  },
+  {
+    "id": "8999",
+    "qid": "32",
+    "qw": "1",
+    "q": "An accident with little material damage. <br />What do you do first? <br /><br />A. Call the police.<br />B. Fill in the European/International Accident Form.<br />C. Park the vehicles.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8999_32.jpg",
+    "clean_q": "An accident with little material damage. \nWhat do you do first? \nA. Call the police.\nB. Fill in the European/International Accident Form.\nC. Park the vehicles."
+  },
+  {
+    "id": "8899",
+    "qid": "19",
+    "qw": "1",
+    "q": "What do you do first when you see a casualty? <br /><br />A. Call the number 112.<br />B. Remove any obstruction from the mouth. <br />C. Move him into a safe position.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8899_19.jpg",
+    "clean_q": "What do you do first when you see a casualty? \nA. Call the number 112.\nB. Remove any obstruction from the mouth. \nC. Move him into a safe position."
+  },
+  {
+    "id": "12350",
+    "qid": "41",
+    "qw": "1",
+    "q": "Do you also have to write down the street names on the situation sketch?",
+    "s": "yes",
+    "e": "LESSON 29 - &#039;Accident&#039;.<br />the road situation;<br />. the direction of travel of the vehicles; <br />. the position of the vehicles at the time of impact;<br />. the road signs (lights, signs, lines);<br />. the street names (or roads).",
+    "local_image_path": "images/accidents-and-casualties_12350_41.jpg",
+    "clean_q": "Do you also have to write down the street names on the situation sketch?",
+    "clean_e": "LESSON 29 - 'Accident'.\nthe road situation;\n. the direction of travel of the vehicles; \n. the position of the vehicles at the time of impact;\n. the road signs (lights, signs, lines);\n. the street names (or roads)."
+  },
+  {
+    "id": "8892",
+    "qid": "12",
+    "qw": "1",
+    "q": "When do you have to call the police? <br /><br />A. It is best with any accident.<br />B. Only with an accident with casualties.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8892_12.jpg",
+    "clean_q": "When do you have to call the police? \nA. It is best with any accident.\nB. Only with an accident with casualties."
+  },
+  {
+    "id": "8900",
+    "qid": "20",
+    "qw": "1",
+    "q": "Who has to offer assistance in an accident with casualties? <br /><br />A. Only the driver is obligated. <br />B. The driver as well as the passengers.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8900_20.jpg",
+    "clean_q": "Who has to offer assistance in an accident with casualties? \nA. Only the driver is obligated. \nB. The driver as well as the passengers."
+  },
+  {
+    "id": "8907",
+    "qid": "27",
+    "qw": "1",
+    "q": "At what distance (... meters) behind the broken down vehicle do you place a warning triangle on the hard shoulder on the motorway?",
+    "s": "100",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8907_27.jpg",
+    "clean_q": "At what distance (... meters) behind the broken down vehicle do you place a warning triangle on the hard shoulder on the motorway?"
+  },
+  {
+    "id": "12731",
+    "qid": "43",
+    "qw": "1",
+    "q": "When you see these signs in front of a tunnel, you can be sure:<br /><br />A. That the tunnel is at least 500 meters long.<br />B. That the tunnel is only 3.5 meters high everywhere.",
+    "s": "a",
+    "e": "LESSON 29<br />The first sign says it is a tunnel that is 500 meters (or longer).<br />The second sign says your vehicle cannot be higher. The tunnel can be higher in some places.",
+    "local_image_path": "images/accidents-and-casualties_12731_43.jpg",
+    "clean_q": "When you see these signs in front of a tunnel, you can be sure:\nA. That the tunnel is at least 500 meters long.\nB. That the tunnel is only 3.5 meters high everywhere.",
+    "clean_e": "LESSON 29\nThe first sign says it is a tunnel that is 500 meters (or longer).\nThe second sign says your vehicle cannot be higher. The tunnel can be higher in some places."
+  },
+  {
+    "id": "8894",
+    "qid": "14",
+    "qw": "1",
+    "q": "The warning triangle must be visible to oncoming traffic from (...) meters.",
+    "s": "50",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8894_14.jpg",
+    "clean_q": "The warning triangle must be visible to oncoming traffic from (...) meters."
+  },
+  {
+    "id": "12347",
+    "qid": "38",
+    "qw": "1",
+    "q": "Should you ask the police to come in case of an accident with only material damage?<br /><br />A. Yes, always.<br />B. No, except if the parties do not agree.<br />C. No, never.",
+    "s": "b",
+    "e": "LESSON 29 - &#039;Accident&#039;.<br />Always when there are injured.<br />If there is only material damage, then not. Unless the parties do not agree and do not want to sign the collision form.",
+    "local_image_path": "images/accidents-and-casualties_12347_38.jpg",
+    "clean_q": "Should you ask the police to come in case of an accident with only material damage?\nA. Yes, always.\nB. No, except if the parties do not agree.\nC. No, never.",
+    "clean_e": "LESSON 29 - 'Accident'.\nAlways when there are injured.\nIf there is only material damage, then not. Unless the parties do not agree and do not want to sign the collision form."
+  },
+  {
+    "id": "8905",
+    "qid": "25",
+    "qw": "1",
+    "q": "An accident with only material damage. <br />There is an argument. What do you do?<br /><br />A. Call your insurance agent. <br />B. Mention it on the accident form. <br />C. Call the police.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8905_25.jpg",
+    "clean_q": "An accident with only material damage. \nThere is an argument. What do you do?\nA. Call your insurance agent. \nB. Mention it on the accident form. \nC. Call the police."
+  },
+  {
+    "id": "8889",
+    "qid": "9",
+    "qw": "1",
+    "q": "An arm is bleeding.<br /><br />A. You use a pressure bandage. <br />B. You tie off the upper arm. <br />C. You tie off the forearm.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8889_9.jpg",
+    "clean_q": "An arm is bleeding.\nA. You use a pressure bandage. \nB. You tie off the upper arm. \nC. You tie off the forearm."
+  },
+  {
+    "id": "8891",
+    "qid": "11",
+    "qw": "1",
+    "q": "In your side mirror you see an ambulance with blue flashing lights, but you don&rsquo;t hear a warning siren. <br /><br />A. You just drive on.<br />B. You drive to the side and give priority.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8891_11.jpg",
+    "clean_q": "In your side mirror you see an ambulance with blue flashing lights, but you don’t hear a warning siren. \nA. You just drive on.\nB. You drive to the side and give priority."
+  },
+  {
+    "id": "8901",
+    "qid": "21",
+    "qw": "1",
+    "q": "When you see this sign, you know the tunnel is at least (...) meters long.",
+    "s": "500",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8901_21.jpg",
+    "clean_q": "When you see this sign, you know the tunnel is at least (...) meters long."
+  },
+  {
+    "id": "9001",
+    "qid": "34",
+    "qw": "1",
+    "q": "How many fluorescent jackets must be mandatory in a passenger car?<br /><br />A. 1.<br />B. 2.",
+    "s": "a",
+    "e": "LESSON 29",
+    "local_image_path": "images/accidents-and-casualties_9001_34.jpg",
+    "clean_q": "How many fluorescent jackets must be mandatory in a passenger car?\nA. 1.\nB. 2.",
+    "clean_e": "LESSON 29"
+  },
+  {
+    "id": "8903",
+    "qid": "23",
+    "qw": "1",
+    "q": "When you phone with a hands free kit, you pay less attention to the traffic as well as without a hands free kit. <br /><br />A. Correct.<br />B. Incorrect.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8903_23.jpg",
+    "clean_q": "When you phone with a hands free kit, you pay less attention to the traffic as well as without a hands free kit. \nA. Correct.\nB. Incorrect."
+  },
+  {
+    "id": "19668",
+    "qid": "48",
+    "qw": "1",
+    "q": "You damaged another car while parking. You don&rsquo;t know who the owner is.<br />How much time do you have to report it at a police station?<br /><br />A. 12 hours.<br />B. 24 hours.<br />C. As soon as possible.",
+    "s": "c",
+    "e": "LESSON 29<br />If you damage someone&rsquo;s property and the police cannot come to the scene, you must report it as soon as possible at a police station or online via Police-on-Web (for minor damage). The sooner you report it, the more likely it is that the facts will be correctly recorded. Make sure you have all necessary information, such as the location and time of the incident, the license plate of the damaged vehicle, and photos of the damage.",
+    "local_image_path": "images/accidents-and-casualties_19668_48.jpg",
+    "clean_q": "You damaged another car while parking. You don’t know who the owner is.\nHow much time do you have to report it at a police station?\nA. 12 hours.\nB. 24 hours.\nC. As soon as possible.",
+    "clean_e": "LESSON 29\nIf you damage someone’s property and the police cannot come to the scene, you must report it as soon as possible at a police station or online via Police-on-Web (for minor damage). The sooner you report it, the more likely it is that the facts will be correctly recorded. Make sure you have all necessary information, such as the location and time of the incident, the license plate of the damaged vehicle, and photos of the damage."
+  },
+  {
+    "id": "8909",
+    "qid": "29",
+    "qw": "1",
+    "q": "You are involved in an accident with material damage only on a junction. <br />What do you do first? <br /><br />A. Fill in the accident form.<br />B. Call the police.<br />C. Clear the junction.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8909_29.jpg",
+    "clean_q": "You are involved in an accident with material damage only on a junction. \nWhat do you do first? \nA. Fill in the accident form.\nB. Call the police.\nC. Clear the junction."
+  },
+  {
+    "id": "19547",
+    "qid": "46",
+    "qw": "1",
+    "q": "To whom must I show my ID card in the event of an accident?<br /><br />A. To all persons involved in the accident if they ask, and to the qualified officer.<br />B. Only to the qualified officer.",
+    "s": "a",
+    "e": "LESSON 29<br />In the event of an accident involving only material damage and if you are over 15 years old, you must present your identity card to the other people involved if they request it. In the case of injuries or serious damage, the authorities may also require it.",
+    "local_image_path": "images/accidents-and-casualties_19547_46.jpg",
+    "clean_q": "To whom must I show my ID card in the event of an accident?\nA. To all persons involved in the accident if they ask, and to the qualified officer.\nB. Only to the qualified officer.",
+    "clean_e": "LESSON 29\nIn the event of an accident involving only material damage and if you are over 15 years old, you must present your identity card to the other people involved if they request it. In the case of injuries or serious damage, the authorities may also require it."
+  },
+  {
+    "id": "8893",
+    "qid": "13",
+    "qw": "1",
+    "q": "A young cyclist is involved in an accident. <br />At what age (&hellip;) must he show his identity card?",
+    "s": "15",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8893_13.jpg",
+    "clean_q": "A young cyclist is involved in an accident. \nAt what age (…) must he show his identity card?"
+  },
+  {
+    "id": "8904",
+    "qid": "24",
+    "qw": "1",
+    "q": "What do you have to fill in together on a European or International Accident Form? <br /><br />A. Only the front page. <br />B. The front and the back page.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8904_24.jpg",
+    "clean_q": "What do you have to fill in together on a European or International Accident Form? \nA. Only the front page. \nB. The front and the back page."
+  },
+  {
+    "id": "9000",
+    "qid": "33",
+    "qw": "1",
+    "q": "You&rsquo;re involved in an accident.<br />Is it obligatory to show your identity card to the others involved in the accident?<br /><br />A. Yes, always.<br />B. No, only in an accident with casualties.<br />C. No, never.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_9000_33.jpg",
+    "clean_q": "You’re involved in an accident.\nIs it obligatory to show your identity card to the others involved in the accident?\nA. Yes, always.\nB. No, only in an accident with casualties.\nC. No, never."
+  },
+  {
+    "id": "19549",
+    "qid": "47",
+    "qw": "1",
+    "q": "I answer a call with my phone mounted on a support.<br /><br />A. There is no risk.<br />B. I must stay extra alert and vigilant.",
+    "s": "b",
+    "e": "LESSON 29<br />The support does not eliminate potential distractions. You need to stay focused on the traffic.",
+    "local_image_path": "images/accidents-and-casualties_19549_47.jpg",
+    "clean_q": "I answer a call with my phone mounted on a support.\nA. There is no risk.\nB. I must stay extra alert and vigilant.",
+    "clean_e": "LESSON 29\nThe support does not eliminate potential distractions. You need to stay focused on the traffic."
+  },
+  {
+    "id": "8881",
+    "qid": "1",
+    "qw": "1",
+    "q": "An accident without casualties and material damage only.<br />Is it enough that the people involved fill in a European Accident Form?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8881_1.jpg",
+    "clean_q": "An accident without casualties and material damage only.\nIs it enough that the people involved fill in a European Accident Form?"
+  },
+  {
+    "id": "20270",
+    "qid": "49",
+    "qw": "1",
+    "q": "After which sign do you know that the tunnel has a length of 700 meters?<br /><br />A. After both signs.<br />B. After the first sign.<br />C. After the second sign.",
+    "s": "c",
+    "e": "LESSON 29<br />The first sign indicates that a tunnel of 500 meters starts 700 meters further.<br />The exact length of the tunnel can be shown on the sign itself. In this case, 700 meters.",
+    "local_image_path": "images/accidents-and-casualties_20270_49.jpg",
+    "clean_q": "After which sign do you know that the tunnel has a length of 700 meters?\nA. After both signs.\nB. After the first sign.\nC. After the second sign.",
+    "clean_e": "LESSON 29\nThe first sign indicates that a tunnel of 500 meters starts 700 meters further.\nThe exact length of the tunnel can be shown on the sign itself. In this case, 700 meters."
+  },
+  {
+    "id": "8888",
+    "qid": "8",
+    "qw": "1",
+    "q": "An ambulance with blue flashing lights and a warning siren. <br />What do you do? <br /><br />A. You just drive on. <br />B. You drive to the side and give priority.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8888_8.jpg",
+    "clean_q": "An ambulance with blue flashing lights and a warning siren. \nWhat do you do? \nA. You just drive on. \nB. You drive to the side and give priority."
+  },
+  {
+    "id": "8908",
+    "qid": "28",
+    "qw": "1",
+    "q": "An accident with material damage only on the motorway. <br />Where do you have to fill in the accident form? <br /><br />A. Behind the guard rails.<br />B. On the hard shoulder.<br />C. In one of the cars.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8908_28.jpg",
+    "clean_q": "An accident with material damage only on the motorway. \nWhere do you have to fill in the accident form? \nA. Behind the guard rails.\nB. On the hard shoulder.\nC. In one of the cars."
+  },
+  {
+    "id": "8883",
+    "qid": "3",
+    "qw": "1",
+    "q": "A driver of a moped has fallen to the ground. <br /><br />A. You carefully remove the helmet. <br />B. You leave the helmet on the head.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8883_3.jpg",
+    "clean_q": "A driver of a moped has fallen to the ground. \nA. You carefully remove the helmet. \nB. You leave the helmet on the head."
+  },
+  {
+    "id": "8890",
+    "qid": "10",
+    "qw": "1",
+    "q": "Are you allowed to follow an ambulance with your heavily injured father on board, if it is driving faster than the maximum speed limit?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8890_10.jpg",
+    "clean_q": "Are you allowed to follow an ambulance with your heavily injured father on board, if it is driving faster than the maximum speed limit?"
+  },
+  {
+    "id": "8902",
+    "qid": "22",
+    "qw": "1",
+    "q": "What do you do when there is a big fire in a tunnel? <br /><br />A. You reverse to exit the tunnel. <br />B. You exit the tunnel through an emergency exit.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8902_22.jpg",
+    "clean_q": "What do you do when there is a big fire in a tunnel? \nA. You reverse to exit the tunnel. \nB. You exit the tunnel through an emergency exit."
+  },
+  {
+    "id": "8885",
+    "qid": "5",
+    "qw": "1",
+    "q": "An injured person asks for a medicine.<br />Should you give it to him?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8885_5.jpg",
+    "clean_q": "An injured person asks for a medicine.\nShould you give it to him?"
+  },
+  {
+    "id": "10895",
+    "qid": "37",
+    "qw": "1",
+    "q": "You keep falling asleep behind the wheel and your doctor tells you that you&rsquo;re not capable of driving safely. Within how many working days do you have to turn in your driving license? <br /><br />A. The next day<br />B. 3 days.<br />C. 4 days.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_10895_37.jpg",
+    "clean_q": "You keep falling asleep behind the wheel and your doctor tells you that you’re not capable of driving safely. Within how many working days do you have to turn in your driving license? \nA. The next day\nB. 3 days.\nC. 4 days."
+  },
+  {
+    "id": "13945",
+    "qid": "45",
+    "qw": "1",
+    "q": "An accident with only minor damage and no injuries. <br />What are you obliged to show to the other driver if he asks for it?<br /><br />A. The documents of your car, your driver&#039;s license and your identity card.<br />B. Your driver&#039;s license and your identity card.<br />C. Only your identity card.",
+    "s": "c",
+    "e": "LESSON 29 - &#039;Accident&#039;.<br />You must of course have your driver&#039;s license and the original documents with you. But you should not show it or hand it over to the other driver.",
+    "local_image_path": "images/accidents-and-casualties_13945_45.jpg",
+    "clean_q": "An accident with only minor damage and no injuries. \nWhat are you obliged to show to the other driver if he asks for it?\nA. The documents of your car, your driver's license and your identity card.\nB. Your driver's license and your identity card.\nC. Only your identity card.",
+    "clean_e": "LESSON 29 - 'Accident'.\nYou must of course have your driver's license and the original documents with you. But you should not show it or hand it over to the other driver."
+  },
+  {
+    "id": "12348",
+    "qid": "39",
+    "qw": "1",
+    "q": "In case of an accident, an injured person may have difficulty breathing.<br />What are you doing?<br /><br />A. Release the respiratory tract.<br />B. Waiting for the emergency services.<br />C. Pray for the injured person.",
+    "s": "a",
+    "e": "LESSON 29 - &#039;Accident&#039;.<br />You release the respiratory tract and, if necessary, take vomit from the mouth.",
+    "local_image_path": "images/accidents-and-casualties_12348_39.jpg",
+    "clean_q": "In case of an accident, an injured person may have difficulty breathing.\nWhat are you doing?\nA. Release the respiratory tract.\nB. Waiting for the emergency services.\nC. Pray for the injured person.",
+    "clean_e": "LESSON 29 - 'Accident'.\nYou release the respiratory tract and, if necessary, take vomit from the mouth."
+  },
+  {
+    "id": "8910",
+    "qid": "30",
+    "qw": "1",
+    "q": "There is a queue because of an accident on the right lane. <br />Who gets priority to drive on the middle lane? <br /><br />A. Car 1.<br />B. Car 2.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8910_30.jpg",
+    "clean_q": "There is a queue because of an accident on the right lane. \nWho gets priority to drive on the middle lane? \nA. Car 1.\nB. Car 2."
+  },
+  {
+    "id": "12351",
+    "qid": "42",
+    "qw": "1",
+    "q": "Once at home you notice that an important traffic sign is not on the situation sketch.<br />Can you add this sign?",
+    "s": "no",
+    "e": "LESSON 29 - &#039;Accident&#039;.<br />You are not allowed to change anything more on the situation sketch.",
+    "local_image_path": "images/accidents-and-casualties_12351_42.jpg",
+    "clean_q": "Once at home you notice that an important traffic sign is not on the situation sketch.\nCan you add this sign?",
+    "clean_e": "LESSON 29 - 'Accident'.\nYou are not allowed to change anything more on the situation sketch."
+  },
+  {
+    "id": "8896",
+    "qid": "16",
+    "qw": "1",
+    "q": "What do you write in the big white space of the accident form which is used for the situational sketch. <br /><br />1. The road and traffic signs (lights, signs, road <br />    markings). <br />2. Vehicles.<br />3. Direction of the vehicles.<br />4. 1, 2 and 3.",
+    "s": "4",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8896_16.jpg",
+    "clean_q": "What do you write in the big white space of the accident form which is used for the situational sketch. \n1. The road and traffic signs (lights, signs, road \n    markings). \n2. Vehicles.\n3. Direction of the vehicles.\n4. 1, 2 and 3."
+  },
+  {
+    "id": "8886",
+    "qid": "6",
+    "qw": "1",
+    "q": "On regular roads a warning triangle must be placed (...) meters behind the vehicle.",
+    "s": "30",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8886_6.jpg",
+    "clean_q": "On regular roads a warning triangle must be placed (...) meters behind the vehicle."
+  },
+  {
+    "id": "8898",
+    "qid": "18",
+    "qw": "1",
+    "q": "An accident in a tunnel, but there is no smoke or fire. <br />How do you warn the emergency services?<br /><br />A. Preferably by mobile. <br />B. Preferably by an emergency phone in the tunnel.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8898_18.jpg",
+    "clean_q": "An accident in a tunnel, but there is no smoke or fire. \nHow do you warn the emergency services?\nA. Preferably by mobile. \nB. Preferably by an emergency phone in the tunnel."
+  },
+  {
+    "id": "10894",
+    "qid": "36",
+    "qw": "1",
+    "q": "There has been an accident with casualties. <br /><br />A. You bring the casualty to a safe place and you offer help. <br />B. You offer help at the scene of the accident. <br />C. You call the emergency services and give the casualty some water.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_10894_36.jpg",
+    "clean_q": "There has been an accident with casualties. \nA. You bring the casualty to a safe place and you offer help. \nB. You offer help at the scene of the accident. \nC. You call the emergency services and give the casualty some water."
+  },
+  {
+    "id": "8906",
+    "qid": "26",
+    "qw": "1",
+    "q": "You notice an accident in the other direction of the motorway. <br />What do you do? <br /><br />A. You stop at the first emergency phone. <br />B. You stop on the hard shoulder, take your first aid kit and offer assistance.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8906_26.jpg",
+    "clean_q": "You notice an accident in the other direction of the motorway. \nWhat do you do? \nA. You stop at the first emergency phone. \nB. You stop on the hard shoulder, take your first aid kit and offer assistance."
+  },
+  {
+    "id": "8884",
+    "qid": "4",
+    "qw": "1",
+    "q": "What is the European emergency number?<br /><br />A. 100.<br />B. 109.<br />C. 112.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8884_4.jpg",
+    "clean_q": "What is the European emergency number?\nA. 100.\nB. 109.\nC. 112."
+  },
+  {
+    "id": "8887",
+    "qid": "7",
+    "qw": "1",
+    "q": "You have hit a cyclist with your car. <br />What do you do first? <br /><br />A. You check the bleeding.<br />B. You call the emergency services.<br />C. You place a warning triangle.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8887_7.jpg",
+    "clean_q": "You have hit a cyclist with your car. \nWhat do you do first? \nA. You check the bleeding.\nB. You call the emergency services.\nC. You place a warning triangle."
+  },
+  {
+    "id": "8998",
+    "qid": "31",
+    "qw": "1",
+    "q": "Who has to fill in the European or International Accident Form? <br /><br />A. The drivers who are involved.<br />B. The witnesses.<br />C. The police.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/accidents-and-casualties_8998_31.jpg",
+    "clean_q": "Who has to fill in the European or International Accident Form? \nA. The drivers who are involved.\nB. The witnesses.\nC. The police."
+  }
+]

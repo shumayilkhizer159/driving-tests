@@ -1,0 +1,319 @@
+[
+  {
+    "id": "8847",
+    "qid": "24",
+    "qw": "1",
+    "q": "This sign indicates: free choice between parking on the verge or on the road.",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8847_24.jpg",
+    "clean_q": "This sign indicates: free choice between parking on the verge or on the road."
+  },
+  {
+    "id": "8830",
+    "qid": "7",
+    "qw": "1",
+    "q": "It is eleven o&rsquo;clock. <br />Where do you put the arrow on the parking disc? <br /><br />A. On the line between 10 and 11.<br />B. On 11.<br />C. On the line between 11 and 12.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8830_7.jpg",
+    "clean_q": "It is eleven o’clock. \nWhere do you put the arrow on the parking disc? \nA. On the line between 10 and 11.\nB. On 11.\nC. On the line between 11 and 12."
+  },
+  {
+    "id": "8827",
+    "qid": "4",
+    "qw": "1",
+    "q": "Past this sign only trailers and caravans are allowed to be parked. <br /><br />A. Correct.<br />B. Incorrect.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8827_4.jpg",
+    "clean_q": "Past this sign only trailers and caravans are allowed to be parked. \nA. Correct.\nB. Incorrect."
+  },
+  {
+    "id": "12343",
+    "qid": "26",
+    "qw": "1",
+    "q": "How many minutes are you allowed to park far beyond this board?<br /><br />A. 15 minutes.<br />B. 20 minutes.<br />C. 30 minutes.",
+    "s": "a",
+    "e": "LESSON 27 &ndash; &lsquo;Waiting and parking&rsquo;.<br />The maximum parking time can be indicated on an underboard sign.",
+    "local_image_path": "images/waiting-and-parking-part-3_12343_26.jpg",
+    "clean_q": "How many minutes are you allowed to park far beyond this board?\nA. 15 minutes.\nB. 20 minutes.\nC. 30 minutes.",
+    "clean_e": "LESSON 27 – ‘Waiting and parking’.\nThe maximum parking time can be indicated on an underboard sign."
+  },
+  {
+    "id": "8844",
+    "qid": "21",
+    "qw": "1",
+    "q": "It is precisely 12 o&rsquo;clock when you have to display the parking disc.<br />You put the arrow on &hellip;  <br /><br />A. ... 12.<br />B. ... 12.15.<br />C. ... 12.30.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8844_21.jpg",
+    "clean_q": "It is precisely 12 o’clock when you have to display the parking disc.\nYou put the arrow on …  \nA. ... 12.\nB. ... 12.15.\nC. ... 12.30."
+  },
+  {
+    "id": "8833",
+    "qid": "10",
+    "qw": "1",
+    "q": "Is a lorry allowed to park there?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8833_10.jpg",
+    "clean_q": "Is a lorry allowed to park there?"
+  },
+  {
+    "id": "8828",
+    "qid": "5",
+    "qw": "1",
+    "q": "Are you allowed to park a car past this sign?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8828_5.jpg",
+    "clean_q": "Are you allowed to park a car past this sign?"
+  },
+  {
+    "id": "8824",
+    "qid": "1",
+    "qw": "1",
+    "q": "Is the moped allowed to park there?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8824_1.jpg",
+    "clean_q": "Is the moped allowed to park there?"
+  },
+  {
+    "id": "8845",
+    "qid": "22",
+    "qw": "1",
+    "q": "There is no valid parking licence for disabled persons in the car. <br />You are &hellip;<br /><br />A. ... allowed to wait.<br />B. ... allowed to wait or park.<br />C. ... not allowed to wait or park.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8845_22.jpg",
+    "clean_q": "There is no valid parking licence for disabled persons in the car. \nYou are …\nA. ... allowed to wait.\nB. ... allowed to wait or park.\nC. ... not allowed to wait or park."
+  },
+  {
+    "id": "8836",
+    "qid": "13",
+    "qw": "1",
+    "q": "When do you have to display a parking disc in a blue zone? <br /><br />A. From Monday until Saturday between 09:00 am and 06:00 pm.<br />B. From Monday until Saturday between 09:00 am and 07:00 pm. <br />C. From Monday until Friday between 09:00 am and 07:00 pm.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8836_13.jpg",
+    "clean_q": "When do you have to display a parking disc in a blue zone? \nA. From Monday until Saturday between 09:00 am and 06:00 pm.\nB. From Monday until Saturday between 09:00 am and 07:00 pm. \nC. From Monday until Friday between 09:00 am and 07:00 pm."
+  },
+  {
+    "id": "8829",
+    "qid": "6",
+    "qw": "1",
+    "q": "Past this sign motorcycles and vehicles with a M.A.W. of 3.5 ton are allowed to park. <br /><br />A. Correct.<br />B. Incorrect.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8829_6.jpg",
+    "clean_q": "Past this sign motorcycles and vehicles with a M.A.W. of 3.5 ton are allowed to park. \nA. Correct.\nB. Incorrect."
+  },
+  {
+    "id": "8837",
+    "qid": "14",
+    "qw": "1",
+    "q": "A car for sale on the public road is &hellip; <br /><br />A. ... prohibited.<br />B. ... allowed.<br />C. ... allowed maximum 24 hours on the same place.",
+    "s": "a",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8837_14.jpg",
+    "clean_q": "A car for sale on the public road is … \nA. ... prohibited.\nB. ... allowed.\nC. ... allowed maximum 24 hours on the same place."
+  },
+  {
+    "id": "8825",
+    "qid": "2",
+    "qw": "1",
+    "q": "Are you allowed to wait past this sign to let a passenger in?",
+    "s": "yes",
+    "e": "LESSON 27<br />The traffic sign with the symbol of a lorry indicates that it is a location where lorries are allowed to park.<br />A car may stop briefly there to let a passenger get in or out.",
+    "local_image_path": "images/waiting-and-parking-part-3_8825_2.jpg",
+    "clean_q": "Are you allowed to wait past this sign to let a passenger in?",
+    "clean_e": "LESSON 27\nThe traffic sign with the symbol of a lorry indicates that it is a location where lorries are allowed to park.\nA car may stop briefly there to let a passenger get in or out."
+  },
+  {
+    "id": "8826",
+    "qid": "3",
+    "qw": "1",
+    "q": "The ticket dispenser is out of order.<br />What do you do? <br /><br />A. You look for another parking place. <br />B. You park for free. <br />C. You display your parking disc.",
+    "s": "c",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8826_3.jpg",
+    "clean_q": "The ticket dispenser is out of order.\nWhat do you do? \nA. You look for another parking place. \nB. You park for free. \nC. You display your parking disc."
+  },
+  {
+    "id": "8832",
+    "qid": "9",
+    "qw": "1",
+    "q": "You forget to pull up the hand brake after parking during the practical examination/test. <br /><br />A. The examiner doesn&rsquo;t pay attention to that. <br />B. You have to do the examination again.",
+    "s": "b",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8832_9.jpg",
+    "clean_q": "You forget to pull up the hand brake after parking during the practical examination/test. \nA. The examiner doesn’t pay attention to that. \nB. You have to do the examination again."
+  },
+  {
+    "id": "8839",
+    "qid": "16",
+    "qw": "1",
+    "q": "Is the blue car parked according to the regulations?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8839_16.jpg",
+    "clean_q": "Is the blue car parked according to the regulations?"
+  },
+  {
+    "id": "21015",
+    "qid": "31",
+    "qw": "1",
+    "q": "You parked your car in a street and spent the night at your grandparents&rsquo; house.<br />The next morning you want to leave, but the street has become a school street.<br />Are you allowed to drive away?<br /><br />A. Yes, but only at walking speed. <br />B. No.",
+    "s": "a",
+    "e": "LESSON 6<br />To reduce traffic congestion at the start and end of the school day, a street near a school may be closed twice a day to motor vehicles. When this happens, the street becomes a school street. This is indicated by a C3 (no entry) traffic sign, together with an additional panel stating SCHOOL STREET.<br />Who may enter a school street?<br />&ndash; Pedestrians, cyclists, and speed pedelecs.<br />&ndash; Residents of the street or drivers who have a garage there (with a permit).<br />&ndash; Priority vehicles.<br />&ndash; Vehicles with a special permit.",
+    "local_image_path": "images/waiting-and-parking-part-3_21015_31.jpg",
+    "clean_q": "You parked your car in a street and spent the night at your grandparents’ house.\nThe next morning you want to leave, but the street has become a school street.\nAre you allowed to drive away?\nA. Yes, but only at walking speed. \nB. No.",
+    "clean_e": "LESSON 6\nTo reduce traffic congestion at the start and end of the school day, a street near a school may be closed twice a day to motor vehicles. When this happens, the street becomes a school street. This is indicated by a C3 (no entry) traffic sign, together with an additional panel stating SCHOOL STREET.\nWho may enter a school street?\n– Pedestrians, cyclists, and speed pedelecs.\n– Residents of the street or drivers who have a garage there (with a permit).\n– Priority vehicles.\n– Vehicles with a special permit."
+  },
+  {
+    "id": "8841",
+    "qid": "18",
+    "qw": "1",
+    "q": "Do the residents of this road also have to use the parking disc?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8841_18.jpg",
+    "clean_q": "Do the residents of this road also have to use the parking disc?"
+  },
+  {
+    "id": "12344",
+    "qid": "27",
+    "qw": "1",
+    "q": "Which cars may be parked beyond?<br /><br />A. Electric cars.<br />B. Electric cars and gas.<br />C. Electric cars and on LPG or natural gas.",
+    "s": "a",
+    "e": "LESSON 27 &ndash; &lsquo;Waiting and parking&rsquo;.<br />Electric cars.",
+    "local_image_path": "images/waiting-and-parking-part-3_12344_27.jpg",
+    "clean_q": "Which cars may be parked beyond?\nA. Electric cars.\nB. Electric cars and gas.\nC. Electric cars and on LPG or natural gas.",
+    "clean_e": "LESSON 27 – ‘Waiting and parking’.\nElectric cars."
+  },
+  {
+    "id": "8838",
+    "qid": "15",
+    "qw": "1",
+    "q": "Are you allowed to wait past this sign to let someone out of the car?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8838_15.jpg",
+    "clean_q": "Are you allowed to wait past this sign to let someone out of the car?"
+  },
+  {
+    "id": "8840",
+    "qid": "17",
+    "qw": "1",
+    "q": "Are you allowed to park a car past this sign?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8840_17.jpg",
+    "clean_q": "Are you allowed to park a car past this sign?"
+  },
+  {
+    "id": "8831",
+    "qid": "8",
+    "qw": "1",
+    "q": "Are you allowed to park a car past this sign?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8831_8.jpg",
+    "clean_q": "Are you allowed to park a car past this sign?"
+  },
+  {
+    "id": "8842",
+    "qid": "19",
+    "qw": "1",
+    "q": "Are you allowed to wait for a while past this sign until the school bus arrives?",
+    "s": "no",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8842_19.jpg",
+    "clean_q": "Are you allowed to wait for a while past this sign until the school bus arrives?"
+  },
+  {
+    "id": "8835",
+    "qid": "12",
+    "qw": "1",
+    "q": "Is a car also allowed to park in front of this sign?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8835_12.jpg",
+    "clean_q": "Is a car also allowed to park in front of this sign?"
+  },
+  {
+    "id": "8834",
+    "qid": "11",
+    "qw": "1",
+    "q": "A broken down car is allowed to stay maximum (&hellip;) hours on the public road.",
+    "s": "24",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8834_11.jpg",
+    "clean_q": "A broken down car is allowed to stay maximum (…) hours on the public road."
+  },
+  {
+    "id": "8848",
+    "qid": "25",
+    "qw": "1",
+    "q": "Parking meter / Parking disk.<br />How long can you park (unless stated otherwise)?<br /><br />A. 1 hour.<br />B. 1.5 hours.<br />C. 2 hours.",
+    "s": "c",
+    "e": "LESSON 27",
+    "local_image_path": "images/waiting-and-parking-part-3_8848_25.jpg",
+    "clean_q": "Parking meter / Parking disk.\nHow long can you park (unless stated otherwise)?\nA. 1 hour.\nB. 1.5 hours.\nC. 2 hours.",
+    "clean_e": "LESSON 27"
+  },
+  {
+    "id": "12578",
+    "qid": "29",
+    "qw": "1",
+    "q": "Your car is running on gas. Can you stop here to get someone out?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_12578_29.jpg",
+    "clean_q": "Your car is running on gas. Can you stop here to get someone out?"
+  },
+  {
+    "id": "8843",
+    "qid": "20",
+    "qw": "1",
+    "q": "Are you allowed to park a motorcycle in these parking places?",
+    "s": "yes",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8843_20.jpg",
+    "clean_q": "Are you allowed to park a motorcycle in these parking places?"
+  },
+  {
+    "id": "8846",
+    "qid": "23",
+    "qw": "1",
+    "q": "How many hours is an advertising vehicle allowed to stay on the public road?",
+    "s": "3",
+    "e": "",
+    "local_image_path": "images/waiting-and-parking-part-3_8846_23.jpg",
+    "clean_q": "How many hours is an advertising vehicle allowed to stay on the public road?"
+  },
+  {
+    "id": "12463",
+    "qid": "28",
+    "qw": "1",
+    "q": "How long can the red car be parked there?<br /><br />A. Maximum 30 minutes.<br />B. More than two hours.",
+    "s": "b",
+    "e": "LESSON 27 - &#039;Waiting and parking&#039;.<br />The time limit only starts past the sign, because the arrow points upwards.",
+    "local_image_path": "images/waiting-and-parking-part-3_12463_28.jpg",
+    "clean_q": "How long can the red car be parked there?\nA. Maximum 30 minutes.\nB. More than two hours.",
+    "clean_e": "LESSON 27 - 'Waiting and parking'.\nThe time limit only starts past the sign, because the arrow points upwards."
+  },
+  {
+    "id": "12660",
+    "qid": "30",
+    "qw": "1",
+    "q": "A parking space for electric cars with charging station.<br />Can you park your electric car there?<br /><br />A. Yes.<br />B. Yes, but only when your car is connected.",
+    "s": "b",
+    "e": "LESSON 27 - &#039;Parking 3&#039;.",
+    "local_image_path": "images/waiting-and-parking-part-3_12660_30.jpg",
+    "clean_q": "A parking space for electric cars with charging station.\nCan you park your electric car there?\nA. Yes.\nB. Yes, but only when your car is connected.",
+    "clean_e": "LESSON 27 - 'Parking 3'."
+  }
+]
