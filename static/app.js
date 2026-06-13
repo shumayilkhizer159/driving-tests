@@ -47,6 +47,7 @@ const closeBrowserDetailsBtn = document.getElementById("close-browser-details-bt
 const browserDetailsTitle = document.getElementById("browser-details-title");
 const browserDetailsImageContainer = document.getElementById("browser-details-image-container");
 const browserDetailsQuestionText = document.getElementById("browser-details-question-text");
+const browserDetailsOptionsContainer = document.getElementById("browser-details-options-container");
 const browserDetailsCorrectAnswer = document.getElementById("browser-details-correct-answer");
 const browserDetailsExplanationText = document.getElementById("browser-details-explanation-text");
 const browserDetailsPrevBtn = document.getElementById("browser-details-prev-btn");
@@ -849,7 +850,66 @@ function showBrowserQuestionDetail(index) {
     const qText = q.clean_q || q.q.replace(/<br\s*\/?>/gi, '\n').replace(/<\/?[^>]+(>|$)/g, "");
     const expText = q.clean_e || q.e.replace(/<br\s*\/?>/gi, '\n').replace(/<\/?[^>]+(>|$)/g, "");
     
-    browserDetailsQuestionText.textContent = qText;
+    // Extract option text if inline options are listed inside the question string
+    let cleanPrompt = qText;
+    const abcMatch = qText.match(/(?:A\.\s+.*?)(?:\n|$)/i);
+    if (abcMatch) {
+        cleanPrompt = qText.split(/A\.\s+/i)[0].trim();
+    }
+    browserDetailsQuestionText.textContent = cleanPrompt;
+    
+    // Render Options in details modal
+    browserDetailsOptionsContainer.innerHTML = "";
+    const solution = q.s.toLowerCase().trim();
+    
+    if (solution === "yes" || solution === "no" || solution === "ja" || solution === "neen") {
+        const isDutch = solution === "ja" || solution === "neen";
+        const options = [
+            { letter: isDutch ? "ja" : "yes", text: isDutch ? "Ja" : "Yes" },
+            { letter: isDutch ? "neen" : "no", text: isDutch ? "Neen" : "No" }
+        ];
+        options.forEach(opt => {
+            const isCorrect = solution === opt.letter;
+            const optDiv = document.createElement("div");
+            optDiv.className = `review-option ${isCorrect ? 'correct' : ''}`;
+            optDiv.innerHTML = `<span class="review-option-letter">${isCorrect ? '<i class="fa-solid fa-check"></i>' : ''}</span> ${opt.text}`;
+            browserDetailsOptionsContainer.appendChild(optDiv);
+        });
+    } else if (["a", "b", "c", "d"].includes(solution)) {
+        let options = [];
+        const lines = qText.split('\n');
+        lines.forEach(l => {
+            const m = l.match(/^([A-D])\.\s*(.*)/i);
+            if (m) {
+                options.push({ letter: m[1].toLowerCase(), text: m[2] });
+            }
+        });
+        
+        // Fallback options if they could not be parsed from text
+        if (options.length === 0) {
+            options = [
+                { letter: "a", text: "Option A" },
+                { letter: "b", text: "Option B" },
+                { letter: "c", text: "Option C" }
+            ];
+            if (solution === 'd') options.push({ letter: "d", text: "Option D" });
+        }
+        
+        options.forEach(opt => {
+            const isCorrect = solution === opt.letter;
+            const optDiv = document.createElement("div");
+            optDiv.className = `review-option ${isCorrect ? 'correct' : ''}`;
+            optDiv.innerHTML = `<span class="review-option-letter">${opt.letter.toUpperCase()}</span> ${opt.text}`;
+            browserDetailsOptionsContainer.appendChild(optDiv);
+        });
+    } else {
+        // Numeric solution
+        const optDiv = document.createElement("div");
+        optDiv.className = "review-option correct";
+        optDiv.innerHTML = `<span class="review-option-letter"><i class="fa-solid fa-hashtag"></i></span> Correct Numeric Value: <strong>${q.s}</strong>`;
+        browserDetailsOptionsContainer.appendChild(optDiv);
+    }
+    
     browserDetailsCorrectAnswer.textContent = q.s.toUpperCase();
     browserDetailsExplanationText.textContent = expText || "No explanation provided for this question.";
     
