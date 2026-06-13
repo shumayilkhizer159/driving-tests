@@ -79,10 +79,71 @@ function deleteProfile(profileId) {
 // ─────────────────────────────────────────────────────
 const pfx     = (id, type) => `bd_${id}_${type}`;
 const getPin  = id      => localStorage.getItem(pfx(id,'pin'));
-const setPin  = (id,p)  => localStorage.setItem(pfx(id,'pin'), p);
-const clearP  = id      => localStorage.removeItem(pfx(id,'pin'));
-const hasPin  = id      => !!getPin(id);
 const verPin  = (id,p)  => getPin(id) === p;
+
+// ─────────────────────────────────────────────────────
+// CLOUD PIN-FLAG SYNC via JSONBin.io
+// We only sync a boolean flag (has_pin) — never the actual PIN.
+// This lets all users on any device see who already has a PIN set,
+// preventing Farhan from being prompted to create Shumayil's PIN.
+// ─────────────────────────────────────────────────────
+const CLOUD_BIN_ID     = '6a2d6035da38895dfeba3873';
+const CLOUD_MASTER_KEY = '$2a$10$IMJ30qxLh7n/vOEJQVJsV.TNrfOkTkk4ArjB6qbVXlBITmtGTlfWu';
+const CLOUD_URL        = `https://api.jsonbin.io/v3/b/${CLOUD_BIN_ID}`;
+
+// In-memory cache of cloud flags { profileId: true/false }
+let _cloudPinFlags = null;
+
+async function fetchCloudPinFlags() {
+    try {
+        const res  = await fetch(CLOUD_URL, { headers: { 'X-Master-Key': CLOUD_MASTER_KEY } });
+        if (!res.ok) return;
+        const data = await res.json();
+        _cloudPinFlags = data.record || {};
+        // If a profile's flag is true in cloud but no local PIN, mark it as protected
+        // so others can't re-setup it — store a sentinel so hasPin() returns true
+        getProfiles().forEach(p => {
+            if (_cloudPinFlags[p.id] === true && !getPin(p.id)) {
+                localStorage.setItem(pfx(p.id,'pin'), '__cloud_protected__');
+            }
+        });
+    } catch (e) {
+        // Offline or rate limited — fall back to local state
+    }
+}
+
+async function pushCloudPinFlag(profileId, hasSet) {
+    if (!_cloudPinFlags) return; // haven't loaded cloud data yet, skip
+    const updated = Object.assign({}, _cloudPinFlags, { [profileId]: hasSet });
+    try {
+        await fetch(CLOUD_URL, {
+            method:  'PUT',
+            headers: { 'X-Master-Key': CLOUD_MASTER_KEY, 'Content-Type': 'application/json' },
+            body:    JSON.stringify(updated)
+        });
+        _cloudPinFlags = updated;
+    } catch (e) {
+        // Fail silently — local pin still works
+    }
+}
+
+// Wrap setPin/clearP to also update the cloud flag
+function setPin(id, p) {
+    localStorage.setItem(pfx(id,'pin'), p);
+    pushCloudPinFlag(id, true); // fire-and-forget
+}
+
+function clearP(id) {
+    localStorage.removeItem(pfx(id,'pin'));
+    pushCloudPinFlag(id, false); // fire-and-forget
+}
+
+function hasPin(id) {
+    const local = getPin(id);
+    if (local) return true;
+    // Also check in-memory cloud flags as fallback
+    return _cloudPinFlags ? !!_cloudPinFlags[id] : false;
+}
 
 // ─────────────────────────────────────────────────────
 // RESET CODE (admin generates, friend enters)
@@ -219,8 +280,14 @@ function selectProfile(profileId) {
     const profile = getProfiles().find(p => p.id === profileId);
     const g       = profileGradient(profile);
     if (hasPin(profileId)) {
+        const isSentinel = getPin(profileId) === '__cloud_protected__';
         pinMode = 'enter';
-        openPinModal(profile, g, 'Enter your PIN', '');
+        const subtitle = isSentinel ? 'Enter the PIN you set on your device' : '';
+        openPinModal(profile, g, 'Enter your PIN', subtitle);
+        // Show forgot link immediately if on a new device (sentinel)
+        if (isSentinel) {
+            document.getElementById('pm-forgot-wrap').style.display = 'block';
+        }
     } else {
         pinMode = 'setup';
         openPinModal(profile, g, 'Create your PIN', 'Choose a 4-digit PIN to protect your profile');
@@ -665,7 +732,7 @@ function relDate(dateStr) {
 // ─────────────────────────────────────────────────────
 // INIT
 // ─────────────────────────────────────────────────────
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
     // Keyboard shortcuts in modals
     const resetInp = document.getElementById('pm-reset-input');
     if (resetInp) resetInp.addEventListener('keydown', e => { if (e.key === 'Enter') submitResetCode(); });
@@ -684,5 +751,7 @@ document.addEventListener('DOMContentLoaded', () => {
         initialsInp.addEventListener('keydown', e => { if (e.key === 'Enter') submitAddProfile(); });
     }
 
+    // Fetch cloud PIN flags first, then render so profile cards show correct lock state
+    await fetchCloudPinFlags();
     renderProfileScreen();
 });
