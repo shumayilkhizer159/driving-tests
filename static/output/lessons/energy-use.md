@@ -106,7 +106,7 @@ It's better not to transport a bicycle on the roof of the car, but place it on a
 
 |  |  |
 | --- | --- |
-| ![](uploads/theorie/rijbewijs-b/30/euro.jpg) | The **EURO standard** is stated on the vehicle registration certificate. The EURO standard (also called the emission class) is a European regulation that limits the emission of harmful substances by vehicles.  It indicates how many pollutants, such as particulate matter, carbon monoxide and nitrogen oxides, a car emits. **The higher the number (from 1 to 6), the cleaner the car and the lower its emissions.**  *(The registration certificate is, as it were, the identity card of the vehicle and contains all its details.)* |
+| <i class="fa-solid fa-leaf" style="font-size:32px;color:var(--success)"></i> | The **EURO standard** is stated on the vehicle registration certificate. The EURO standard (also called the emission class) is a European regulation that limits the emission of harmful substances by vehicles.  It indicates how many pollutants, such as particulate matter, carbon monoxide and nitrogen oxides, a car emits. **The higher the number (from 1 to 6), the cleaner the car and the lower its emissions.**  *(The registration certificate is, as it were, the identity card of the vehicle and contains all its details.)* |
 
 ### Petrol station
 

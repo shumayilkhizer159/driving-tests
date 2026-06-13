@@ -107,6 +107,12 @@ function setupEventListeners() {
     browserSearchInput.addEventListener("input", handleBrowserSearchInput);
     browserImageFilter.addEventListener("change", handleBrowserImageFilter);
     
+    // View All History/Progress page click
+    const viewAllHistoryBtn = document.getElementById("view-all-history-btn");
+    if (viewAllHistoryBtn) {
+        viewAllHistoryBtn.addEventListener("click", activateHistoryPage);
+    }
+    
     // Close Modals
     closeQuizBtn.addEventListener("click", () => {
         if (confirm("Are you sure you want to exit the quiz? Your progress will be lost.")) {
@@ -169,6 +175,8 @@ function renderLessonsSidebar() {
 async function selectLesson(index) {
     // Hide questions browser, show theory panel
     questionsBrowserContainer.classList.add("hidden");
+    const historyPageContainer = document.getElementById("history-page-container");
+    if (historyPageContainer) historyPageContainer.classList.add("hidden");
     theoryReaderPanel.classList.remove("hidden");
 
     // UI Update Sidebar
@@ -551,6 +559,16 @@ function showResults() {
         resultsMessage.textContent = "Keep Practicing! 📚";
     }
     
+    // Save to profile history
+    if (typeof saveMockExamResult === "function" && typeof saveQuizResult === "function") {
+        if (isMockExam) {
+            saveMockExamResult(quizScore, quizQuestions.length);
+        } else if (currentLesson) {
+            const slug = currentLesson.url.split("/").pop();
+            saveQuizResult(slug, currentLesson.title, quizScore, quizQuestions.length);
+        }
+    }
+    
     // Render grid of boxes
     resultsGrid.innerHTML = "";
     userAnswers.forEach((ans, i) => {
@@ -608,6 +626,8 @@ async function activateQuestionsBrowser() {
     
     // Toggle containers
     theoryReaderPanel.classList.add("hidden");
+    const historyPageContainer = document.getElementById("history-page-container");
+    if (historyPageContainer) historyPageContainer.classList.add("hidden");
     questionsBrowserContainer.classList.remove("hidden");
     
     // Load database if not already loaded
@@ -868,6 +888,8 @@ async function activateLessonQuestionsBrowser() {
     
     // Toggle containers
     theoryReaderPanel.classList.add("hidden");
+    const historyPageContainer = document.getElementById("history-page-container");
+    if (historyPageContainer) historyPageContainer.classList.add("hidden");
     questionsBrowserContainer.classList.remove("hidden");
     
     // Reset search inputs & dropdowns
@@ -896,4 +918,111 @@ async function activateLessonQuestionsBrowser() {
             </div>
         `;
     }
+}
+
+// ==========================================================================
+// FULL PROGRESS & HISTORY PAGE
+// ==========================================================================
+function activateHistoryPage() {
+    // Hide reader, hide questions browser
+    theoryReaderPanel.classList.add("hidden");
+    questionsBrowserContainer.classList.add("hidden");
+    
+    // UI Update Sidebar (deselect any active lesson)
+    const items = lessonList.querySelectorAll(".lesson-item");
+    items.forEach(item => item.classList.remove("active"));
+    
+    currentLesson = null;
+    activeLessonTitle.textContent = "Your Study History";
+    startQuizBtn.style.display = "none";
+    viewLessonQuestionsBtn.style.display = "none";
+    
+    const historyPageContainer = document.getElementById("history-page-container");
+    if (historyPageContainer) {
+        historyPageContainer.classList.remove("hidden");
+    }
+    
+    renderFullHistoryPage();
+}
+
+function renderFullHistoryPage() {
+    if (typeof getProfileHistory !== "function") return;
+    
+    const history = getProfileHistory();
+    
+    // Update count indicator
+    const countEl = document.getElementById("history-page-count");
+    if (countEl) {
+        countEl.textContent = `${history.length} session${history.length === 1 ? '' : 's'} completed`;
+    }
+    
+    // Calculate stats
+    let mockExamsCount = 0;
+    let lessonQuizzesCount = 0;
+    let totalScore = 0;
+    let totalQuestions = 0;
+    let mockPassedCount = 0;
+    
+    history.forEach(h => {
+        if (h.type === 'mock') {
+            mockExamsCount++;
+            if (h.passed) mockPassedCount++;
+        } else {
+            lessonQuizzesCount++;
+        }
+        totalScore += h.score;
+        totalQuestions += h.total;
+    });
+    
+    const avgScore = totalQuestions > 0 ? Math.round((totalScore / totalQuestions) * 100) : 0;
+    const mockPassRate = mockExamsCount > 0 ? Math.round((mockPassedCount / mockExamsCount) * 100) : 0;
+    
+    // Update stats UI elements
+    const meEl = document.getElementById("stats-mock-exams");
+    const lqEl = document.getElementById("stats-lesson-quizzes");
+    const asEl = document.getElementById("stats-avg-score");
+    const prEl = document.getElementById("stats-pass-rate");
+    
+    if (meEl) meEl.textContent = mockExamsCount;
+    if (lqEl) lqEl.textContent = lessonQuizzesCount;
+    if (asEl) asEl.textContent = `${avgScore}%`;
+    if (prEl) prEl.textContent = mockExamsCount > 0 ? `${mockPassRate}%` : "0%";
+    
+    // Render the table list of history
+    const listContainer = document.getElementById("history-page-list");
+    if (!listContainer) return;
+    
+    if (history.length === 0) {
+        listContainer.innerHTML = `
+            <div class="hist-empty-full">
+                <i class="fa-regular fa-clock"></i>
+                <div>No history or progress recorded yet. Start practicing with theory quizzes or mock exams!</div>
+            </div>
+        `;
+        return;
+    }
+    
+    listContainer.innerHTML = history.map(h => {
+        const date = new Date(h.date).toLocaleString('en-GB', { day:'numeric', month:'short', hour:'2-digit', minute:'2-digit' });
+        const typeLabel = h.type === 'mock' ? 'Mock Exam' : 'Lesson Quiz';
+        const typeClass = h.type === 'mock' ? 'badge-mock' : 'badge-lesson';
+        const percentageClass = h.percentage >= 80 ? 'text-success' : h.percentage >= 60 ? 'text-warning' : 'text-danger';
+        
+        const passFailText = h.type === 'mock' ? (h.passed ? 'PASSED' : 'FAILED') : '';
+        const passFailClass = h.type === 'mock' ? (h.passed ? 'pass-indicator' : 'fail-indicator') : '';
+        const statusBadge = passFailText ? `<span class="badge-status ${passFailClass}" style="margin-left:8px;font-size:9px">${passFailText}</span>` : '';
+        
+        return `
+            <div class="history-table-row">
+                <div class="col-type"><span class="badge ${typeClass}">${typeLabel}</span></div>
+                <div class="col-topic" style="color:var(--text-primary)">
+                    <span class="topic-title">${h.type === 'mock' ? 'Random Mock Exam' : (h.lessonTitle || 'Theory Quiz')}</span>
+                    ${statusBadge}
+                </div>
+                <div class="col-score" style="color:var(--text-secondary)">${h.score} / ${h.total}</div>
+                <div class="col-pct ${percentageClass}" style="font-weight:700">${h.percentage}%</div>
+                <div class="col-date" style="color:var(--text-muted)">${date}</div>
+            </div>
+        `;
+    }).join('');
 }

@@ -60,7 +60,7 @@ On an express road and other roads, there is no mandatory minimum speed. However
 
 |  |  |
 | --- | --- |
-| ![](uploads/theorie/rijbewijs-b/12/snelheid-3.jpg) | On roads "outside the built-up area", the directions of which are separated by road markings and therefore there is no middle verge, you can ...   * In Flanders: **70kph**. * In the Brussels region: **70kph**. * In Wallonia: **90kph**.   Of course, other speed limits can be imposed by traffic signs. |
+| ![](images/speed_img_missing.jpg) | On roads "outside the built-up area", the directions of which are separated by road markings and therefore there is no middle verge, you can ...   * In Flanders: **70kph**. * In the Brussels region: **70kph**. * In Wallonia: **90kph**.   Of course, other speed limits can be imposed by traffic signs. |
 
 ---
 

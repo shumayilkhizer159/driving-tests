@@ -103,7 +103,7 @@ Drivers must give right of way to pedestrians and cyclists and not hinder or end
 
 |  |  |
 | --- | --- |
-| ![](images/special-places_img_26.jpg) ![](uploads/theorie/rijbewijs-b/6/fietszone.jpg) | ![](images/special-places_img_28.png)  A bicycle zone is one or more public roads where cyclists (and drivers of bicycles and speedpedelecs) are the most important road users, but where motor vehicles are also permitted. They are, as it were, "guests"..  In a bicycle zone, motor vehicles (also not mopeds) are not allowed to overtake cyclists, speed pedelecs and road wheels up to 1 m wide.  The maximum permitted speed is 30 km/hour. A bicycle zone stops at the board end zone.  Due to the Royal Decree of 12 March 2023, the bicycle street has been removed from the road code. But the signs with bicycle street and end of the bicycle street may remain until 1 January 2032. |
+| ![](images/special-places_img_26.jpg) | ![](images/special-places_img_28.png)  A bicycle zone is one or more public roads where cyclists (and drivers of bicycles and speedpedelecs) are the most important road users, but where motor vehicles are also permitted. They are, as it were, "guests"..  In a bicycle zone, motor vehicles (also not mopeds) are not allowed to overtake cyclists, speed pedelecs and road wheels up to 1 m wide.  The maximum permitted speed is 30 km/hour. A bicycle zone stops at the board end zone.  Due to the Royal Decree of 12 March 2023, the bicycle street has been removed from the road code. But the signs with bicycle street and end of the bicycle street may remain until 1 January 2032. |
 
 ### Rules
 
